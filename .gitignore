@@ -1,4 +1,5 @@
 **/*data/** 
 .history
 .vscode/
+logs/**
 

@@ -1,6 +1,8 @@
 import os
 import json
 
+
+
 data_path = 'minipile_train.json'
 save_path = './repetition_experiment/prompt'
 os.makedirs(save_path, exist_ok=True)
