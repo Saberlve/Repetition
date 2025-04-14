@@ -1,11 +1,12 @@
 import torch
 import json
+from tqdm import tqdm
 from transformers import AutoTokenizer, AutoModelForCausalLM
 from argparse import ArgumentParser
-
+verbose = True
 def greedy_gen(model, tokenizer, data):
     generated_texts = []  # 初始化列表
-    for item in data:
+    for item in tqdm(data):
         input_text = item['text']  
         input_ids = tokenizer(input_text, return_tensors="pt").input_ids.to(model.device)
         
@@ -19,7 +20,9 @@ def greedy_gen(model, tokenizer, data):
             )
         
         generated_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
-        generated_texts.append({'text':input_text,'output':generated_text})
+        result ={'text':input_text,'output':generated_text}
+        print(result)
+        generated_texts.append(result)
     
     return generated_texts
 
@@ -43,16 +46,18 @@ def main(model_name_or_path, data_path, device, torch_dtype):
     generated_texts = greedy_gen(model, tokenizer, data)
     
     # 将生成的文本保存到文件
-    with open('natural_prompt.json', 'w', encoding='utf-8') as f:
+    data_name = data_path.split('/')[-1].split('.')[0]
+    output_path = f'../prompt/{data_name}_greedy_generate.json'
+    with open(output_path, 'w', encoding='utf-8') as f:
         json.dump(generated_texts, f, indent=4, ensure_ascii=False)
 
 
 if __name__ == '__main__':
     parser = ArgumentParser()
-    parser.add_argument('--model_name_or_path', type=str, required=True, help="The name or path of the pre-trained model")
-    parser.add_argument('--data_path', type=str, required=True, help="The path to the input dataset (JSON)")
-    parser.add_argument('--device', type=str, default='cuda' if torch.cuda.is_available() else 'cpu', help="The device to run the model on (e.g., 'cpu', 'cuda:0')")
-    parser.add_argument('--torch_dtype', type=str, default='auto', choices=['auto', 'float16', 'float32'], help="The dtype to load the model weights (e.g., 'auto', 'float16', 'float32')")
+    parser.add_argument('--model_name_or_path', default='../../Qwen2-0.5B')
+    parser.add_argument('--data_path', default='../prompt/minipile_train.json')
+    parser.add_argument('--device',default='cuda' )
+    parser.add_argument('--torch_dtype', default='bfloat16')
 
     args = parser.parse_args()
     
