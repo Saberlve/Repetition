@@ -161,11 +161,11 @@ def prepare_generation_datasets(hparams):
 
 def prepare_train_dataset(hparams):
     dataset_name = hparams.steer_train_dataset
-    dataset = {}
+    data = {}
     loader = DatasetLoader()
     dataset = loader.load_file(dataset_name, split='train')
-    dataset[dataset_name] = dataset
-    return dataset
+    data[dataset_name] = dataset
+    return data
 
 if __name__=='__main__':
     loader = DatasetLoader()

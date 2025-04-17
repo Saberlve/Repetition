@@ -1,0 +1,24 @@
+model_name_or_path: ../../Qwen2-0.5B
+torch_dtype: bfloat16
+device: cuda:1
+seed: 42
+use_chat_template: false
+system_prompt: ''
+steer_train_hparam_paths:
+- hparams/Steer/caa_hparams/generate_caa.yaml
+steer_train_dataset: repetition
+save_vectors: true
+steer_vector_output_dir: steer/vectors/Qwen2-0.5B
+apply_steer_hparam_paths:
+- hparams/Steer/caa_hparams/apply_caa.yaml
+steer_vector_load_dir: steer/vectors/Qwen2-0.5B/repetition/caa_vector
+generation_data:
+- repetition
+generation_data_size: -1
+generation_output_dir: steer/generation/Qwen2-0.5B/
+num_responses: 1
+steer_from_end_position: false
+generation_params:
+  max_new_tokens: 50
+  temperature: 0.9
+  do_sample: false

@@ -3,3 +3,4 @@
 .vscode/
 logs/**
 raw_dataset/
+**/__pycache__/
