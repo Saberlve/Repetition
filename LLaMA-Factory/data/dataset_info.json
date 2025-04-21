@@ -1,0 +1,20 @@
+{
+  "dpo_qwen": {
+    "file_name": "contrastive_dataset_Qwen2.5.json",
+    "ranking": true,
+    "columns": {
+      "prompt": "question",
+      "chosen": "chosen",
+      "rejected": "reject"
+    }
+  },
+  "dpo_gemma": {
+    "file_name": "contrastive_dataset_gemma2.json",
+    "ranking": true,
+    "columns": {
+      "prompt": "question",
+      "chosen": "chosen",
+      "rejected": "reject"
+    }
+  }
+}

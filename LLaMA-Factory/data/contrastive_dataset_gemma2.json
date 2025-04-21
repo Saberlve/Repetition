@@ -1,0 +1,902 @@
+[
+    {
+        "question": "Q:\n\nCakePHP and referential integrity\n\nMy DB serve",
+        "chosen": " serve as a data source for a CakePHP application. I have a table with a foreign key to another table. I want to make sure that the foreign key is always valid.\n\nI have a model for the table with the foreign key. I have a model for the table with the foreign key. I have a model for the table with the foreign key. I",
+        "reject": "r doesn't support innodb engine, so I can't use Foreign key \ncostraints at DB level. \nHow can I assure referential intergrity? Can I do this using cakephp model, \nhow?\n\nA:\n\nAs long as you define your model associations properly, you should be ok. If you're worried about orphan records when deleting records, you can"
+    },
+    {
+        "question": "The Basics of Premises Liability\n\nYou’ve been scro",
+        "chosen": " scrooged. You’ve been swindled. You’ve been taken advantage of. You’ve been wronged. You’ve been injured. You’ve been hurt. You’ve been wronged. You’ve been injured. You’ve been hurt. You’ve been wronged. You’ve been injured. You’ve been hurt",
+        "reject": "lling around our website, and you probably have noticed the term premises liability. In the legal world, it’s a pretty common term, but do you know what it means? Don’t worry, we’ll answer any questions you might have in this blog article.\n\nTh"
+    },
+    {
+        "question": "It's new to me that vape shop will use bitcoin as ",
+        "chosen": " <strong>payment method</strong>. I'm not sure if it's a good idea to use bitcoin as payment method. I'm not sure if it's a good idea to use bitcoin as payment method. I'm not sure if it's a good idea to use bitcoin as payment method",
+        "reject": "their mode of payment. I have no idea which shop though. For sure many would love to buy vape using bitcoin because I notice that vape is trendy and easy to use not only that but also it is an environmental friendly. I guess there is"
+    },
+    {
+        "question": "\"People Are Our Passion\" We desire to lead people ",
+        "chosen": " <strong>to</strong> a personal relationship with Jesus Christ and to help them grow in their faith. We are a church that is committed <strong>to</strong> the Word of God and the Great Commission. We are a church that is committed <strong>to</strong> the Great Commission. We are a church that is committed <strong>to</strong> the Great Commission. We are a church that is committed <strong>to</strong>",
+        "reject": "into a deeper more meaningful relationship with Christ. NSBC feels that Christ is the only hope of man. We strive to focus on relevant issues that help the individual to grow and mature in their life with Christ. We also have a passion to reach the ...\n\nCovenant Presbyterian Church is a congregation of the Orthodox Presbyterian Church (OPC), a denomination formed in 1936 to maintain the Biblical bel"
+    },
+    {
+        "question": "“Policy is the starting-point of all the practical",
+        "chosen": " practical work of the State. It is the first step in the process of government. It is the first step in the process of government. It is the first step in the process of government",
+        "reject": " actions of a revolutionary party and manifests itself in the process and the end-result of that party’s actions. A revolutionary party is carrying out a policy whenever it takes an"
+    },
+    {
+        "question": "Expression and binding properties of the two manno",
+        "chosen": "noside-binding lectins from the marine sponge Geodia cydonium\n2010\nA. S. M. A. M. de Oliveira, M. A. M. de Oliveira, M. A. M. de Oliveira,",
+        "reject": "se-6-phosphate receptors differ during perinatal development in rat liver.\nMammalian tissues express both cation-dependent (CD-MPR) and ca"
+    },
+    {
+        "question": "Quotes\n\nDouglas Allen, Baron Croham in This is Lon",
+        "chosen": " Loneliness\n\n\"I'm not a man who's afraid of death. I'm a man who's afraid of dying.\"\n\n\"I'm not a man who's afraid of death. I'm a man who's afraid of dying.\"\n\n\"I'm not a man who's afraid of death. I'm a man who's afraid of dying.\"",
+        "reject": "don Sir Douglas Allen, permanent secretary of the Civil Service Department, added: \"By the same token it might be argued that a passion for adultery or nymphomania would be just as relevant as homosexuality.\""
+    },
+    {
+        "question": "Isolation and characterization of a mutant protopo",
+        "chosen": "pollen of Brassica napus L.\n1999\nWang, Y.\nWang, Y.\nWang, Y.\nWang",
+        "reject": "rphyrinogen oxidase gene from Chlamydomonas reinhardtii conferri"
+    },
+    {
+        "question": "Q:\n\nBest way to group power pins on a connector?\n\n",
+        "chosen": "\n\nA:\n\nGroup power pins together on a connector.\n\nQ:\n\nWhat is the best way to group power pins on a connector?\n\nA:\n\nGroup power pins together on a connector.\n\nQ:\n\nWhat is the best way to group power pins on a connector?\n\nA:\n\nGroup power pins together on a connector.\n\nQ:\n\nWhat is the best way to group power pins on a connector?",
+        "reject": "I am designing a little mezzanine PCB that uses Hirose DF12 connectors to connect to the motherboard.\n\nFour different voltages are delivered to this PCB: ±10v, 3.3v, 48v (and ground). They go through one of the DF12 connectors.\nWhich of these two ways is the preferred way to lay out the power and ground connections on the con"
+    },
+    {
+        "question": "Last year, The Economist proclaimedthe podcast had",
+        "chosen": " had become the new radio.\n\nThe podcast has become a popular way to consume news and information, and it’s a great way to learn about a new topic.\n\nBut what if you’re not a fan of podcasts?\n\nWhat if you’re not a fan of podcasts?\n\nWhat if you’re not a fan of podcasts?\n\nWhat",
+        "reject": " come of age. It’s never been easier to create, edit, and upload a podcast and an increasing number of academics are using it to showcase and share their research. Christine Garrington explains why podcasting is such a powerful and impactful tool for researchers, and also "
+    },
+    {
+        "question": "I. Introduction\n===============\n\nLipoma, a soft ti",
+        "chosen": " ti ssue tumor, is a benign tumor of adipose tissue. It is the most common soft tissue tumor, accounting for 40% of all soft tissue tumors. It is a common benign tumor of the skin and subcutaneous tissue, and is the most common benign tumor of the skin and subcutaneous tissue. It is a common benign tumor of the skin and subcutaneous tissue. It is a common benign tumor of the skin and subcutaneous tissue. It is a",
+        "reject": "ssue lesion, is a benign tumour composed of mature adipose tissue. It is a common mesenchymal neoplasm that usually develops on the torso or proximal segments of the limbs[@B1]. Oral lipoma is rare, having an incidence of 1% to 5% among benign oral tumors[@B2] and 0.3% among tongue neoplasias[@B3]. The most common sites are the buccal mucosa, lips, tongue, palate, vestibule, floor of the mouth, and retromolar ar"
+    },
+    {
+        "question": "Editorial\nMarch 2012 Issue\n\nStory Tools\n\nDogs Talk",
+        "chosen": " Talk\n\nThe Dog Whisperer\n\nThe Dog Whisperer\n\nThe Dog Whisperer",
+        "reject": " . . .\n\nIts incumbent on you to learn what your dog says in"
+    },
+    {
+        "question": "You see us as a brain, an athlete, a basket case, ",
+        "chosen": " <strong>a princess</strong>, and a criminal.\nYou see us as a brain, an athlete, a basket case, a princess, and a criminal.\nYou see us as a brain, an athlete, a basket case, a princess, and a criminal.\nYou see us as a brain, an athlete, a basket case, a princess",
+        "reject": "a princess and a criminal.\" They were also known as JT, Ben, Julie, Gwen, and Kevin. Five teens with powers trapped in detention can only mean one thing: The Breakfest Club, Alien Force style! Ben 10: AF."
+    },
+    {
+        "question": "Rather like his conventional one, Pralus falls fla",
+        "chosen": " flaccidly into the category of “chocolate for chocolate’s sake”.\n\nThe chocolate is good, but the flavours are not.\n\nThe chocolate is good, but the flavours are not.\n\nThe chocolate is good, but the flavours are not.",
+        "reject": "t with an organic version of the Ghana. Here is a chocolate that never really gets going, fails to excite, and introduces nothing new. It’s nice, presumably, to have an organic African varietal representative, but P"
+    },
+    {
+        "question": "Q:\n\nAWS Certificate Request Failing\n\nI'm having so",
+        "chosen": " so much trouble with this. I've tried everything I can think of. I've tried using the AWS Certificate Manager, I've tried using the AWS Certificate Manager with the ACM Private CA, I've tried using the ACM Private CA with the ACM Private CA, I've tried using the ACM Private CA with the ACM Private CA with the ACM Private CA with",
+        "reject": "me trouble requesting a certificate on AWS for a domain recently registered on Route 53. It was registered about two days ago now.\nThe domain is cryptobase.cc.\nI've tried looking at their recommended troubleshooting requests and checked both Google and PhishTank for any past violations to no avail.\nI've only found one other menti"
+    },
+    {
+        "question": "Pendant Labradorite\n\nOur Canadian Labradorite is c",
+        "chosen": " categorised as a semi-precious stone. It is a member of the Feldspar family and is found in Canada, Madagascar, Russia, and the United States.\n\nLabradorite is a stone of magic and transformation. It is a stone of transformation and change. It is a stone of magic and transformation. It is a stone of magic and transformation. It is a stone of magic and transformation",
+        "reject": "onsidered a magical stone for those who travel and embrace the universe. Inuit peoples claim Labradorite fell from the frozen fire of the Aurora Borealis, transforming to the extraordinary and separating reality from unseen realms. We hope that this Labradorite pendant brings you the gift of serendipity, protects your aura, and brings a little magic into your life.\n"
+    },
+    {
+        "question": "Q:\n\nMake delay of answer shorter\n\nI am making voic",
+        "chosen": " voicecalls to a number that is not in my contact list.\n\nI have to wait 10 seconds before the call is answered.\n\nI have to wait 10 seconds before the call is answered.\n\nI have to wait 10 seconds before the call is answered",
+        "reject": "e assistant on python.\nHere is the code:\nimport os\nimport time\nimport playsound\nimport speech_recognition as sr\nfrom gtts import gTTS\n\ndef speak(text):\n    tts = gTTS(text=text, lang=\"en\")\n    filename = \"voice.mp3\"\n    tt"
+    },
+    {
+        "question": "Author's infos\n\nIntroduction:\n\nin spite of my kick",
+        "chosen": " kick-ass title, this is not a tutorial. I'm not a pro, I'm just a guy who likes to play with his camera. I'm not a photographer, I'm a photographer's assistant. I'm not a photographer's assistant, I'm a photographer's assistant's assistant. I'm not a photographer's assistant's assistant's assistant",
+        "reject": "ing and squirming tugged at my pants\n\nThe first time another male enjoyed my body was when I was twelve and it was not a sweet romance but struggle and a forced acceptance of my fate. Timothy was his name. He was my brother.\nIt was summer and Timothy and I were at home going about our own business. "
+    },
+    {
+        "question": "We install curb ramps (wheelchair ramps) to make i",
+        "chosen": " iaccessible to people with disabilities.\n\nWe install curb ramps (wheelchair ramps) to make iaccessible to people with disabilities.\n\nWe install curb ramps (wheelchair ramps) to make iaccessible to people with disabilities.\n\nWe install curb ramps (wheelchair ramps) to make",
+        "reject": "t easier to cross streets that have concrete curbs and sidewalks. We give priority to intersections with the greatest need.\n\nOvergrowth:\n\nStreets North of Ship Canal - 684-7508\n\nStreets South of Ship Canal - 386-1218\n\nOvergrowth on Private Property - 684-7899\n\nOur crews cu"
+    },
+    {
+        "question": "A lifestyle blog by Brittany Myers Cobb filled wit",
+        "chosen": " withe everything from fashion, beauty, travel, and more.\n\nA lifestyle blog by Brittany Myers Cobb filled withe everything from fashion, beauty, travel, and more.\n\nA lifestyle blog by Brittany Myers Cobb filled withe everything from fashion, beauty, travel, and more.\n\nA lifestyle blog by Brittany Myers Cobb filled",
+        "reject": "h all things life + style + beauty.\n\nMen's Skin Care Routine Made Simple\n\nEvery man has a skincare routine even if it's simple. Whether you're washing your face + body with soap in the shower or using a cleanser you've picked up from Walgreens, you wash your face + body! Here, I'll share Marqs routine and favorite"
+    },
+    {
+        "question": "Ross\nargues that contemporary art can interrogate ",
+        "chosen": " <em>the</em> <em>social</em> <em>order</em> and\n<em>the</em> <em>social</em> <em>order</em>.\n<em>The</em> <em>social</em> <em>order</em> is a\n<em>The</em> <em>social</em> <em>order</em> is a\n<em>The</em> <em>social</em> <em>order</em> is a",
+        "reject": "notions of\nsimultaneity, temporality, and new visions the future once the idea\nof progress is finally separated from “the modern regime\nof historicity.” Are there similar movements in other\nfields, such as literature, in the past\ndecades?\n\n"
+    },
+    {
+        "question": "Monday, June 10, 2013\n\nThe Office (U.S.) (Season 9",
+        "chosen": "9)\n\nThe Office (U.S.) (Season 9)\n\nThe Office (U.S.) (Season 9)\n\nThe Office (U.S.) (Season ",
+        "reject": ") (2012-2013)\n\nThe ninth and final season of the U.S. version of The Office was a marginal"
+    },
+    {
+        "question": "Q:\n\nLebesgue measure of an open set is the sum of ",
+        "chosen": " 1-dimensional Lebesgue measures of its components\n\nA:\n\nTrue\n\nQ:\n\nLebesgue measure of an open set is the sum of 1-dimensional Lebesgue measures of its components\n\nA:\n\nTrue\n\nQ:\n\nLebesgue measure of an open set is the sum of 1-dimensional Lebesgue measures of its components\n\nA:\n\nTrue\n\nQ:\n\nLebesgue measure of an open set is the sum of",
+        "reject": "lengths of components\n\nIf $O\\subset\\mathbb{R}$ is an open set with unique disjoint decomposition in intervals $O=\\bigcup I_i$, where $l(a,b)=b-a$. Define $\\tau(O)=\\sum l(I_i)$. And define the Lebesgue outer measure $m$ of a set $E\\subset \\mathbb{R}$ as $$m(E)=\\inf_{\\displaystyle E\\subset \\bigcup J_k} \\sum l(J_k)$$ where $J_k$ must "
+    },
+    {
+        "question": "A transthyretin-related protein is functionally ex",
+        "chosen": " exchangeable with transthyretin in the transport of thyroxine and retinol-binding protein in the rat.   <em><strong>总被引：10，自引：0，他引：10</strong></em>  \nM J Dunn  J M Dunn  J M Gotto  J M Scanlon  J M Scanlon  J M Scanlon",
+        "reject": "pressed in Herbaspirillum seropedicae.\nTransthyretin-related proteins (TRPs) constitute a family of proteins structurally related to transthyretin (TTR) and are found in a large range of bacterial, fungal, plant, invert"
+    },
+    {
+        "question": "Adenovirus hepatitis presenting as tumoral lesions",
+        "chosen": " lesions in the liver: a case report\n\nAdenovirus hepatitis presenting as tumoral lesions in the liver: a case report\n\nAdenovirus hepatitis presenting as tumoral lesions in the liver: a case report\n\nAdenovirus hepatitis presenting as tumoral",
+        "reject": " in an immunocompromised patient.\nA 59-year-old man with T-cell prolymphocytic leukemia on alemtuzumab presented with neutropenic fever, intermittent nausea, and multiple ill-defined low attenuation foci in the liver on abdominal computed t"
+    },
+    {
+        "question": "Welcome to Windows 7 Forums. Our forum is dedicate",
+        "chosen": " dedicate to the Windows 7 operating system. We have a great community of users and experts that are here to help you with any questions you may have.\n\nWe have a great community of users and experts that are here to help you with any questions you may have.\n\nWe have a great community of users and experts that are here to help you with any questions you may have.\n\nWe",
+        "reject": "d to helping you find support and solutions for any problems regarding your Windows 7 PC be it Dell, HP, Acer, Asus or a custom build. We also provide an extensive Windows 7 tutorial section that covers a wide range of tips and tricks.\n\nWindows 7: How to mass delete duplicate shortcuts?\n\nI've created a folder with shortcuts to all my songs; about 3,000 in total.\n\nTh"
+    },
+    {
+        "question": "Nanomonestotse\n\nNanomonestotse is an autumn celebr",
+        "chosen": " celebrant of the harvest. She is the goddess of the harvest and the goddess of the autumn. She is the goddess of the harvest and the goddess of the autumn. She is the goddess of the harvest and the goddess of the autumn",
+        "reject": "ation of peace, observed within some Native American families. The word \"nanomónestôtse\" (pronounced NAH-noh-MAH-nay-STOHT-say) means \"peace\" in the Cheyenne language.\n\nHistory and traditions \nNanomonestotse traces its r"
+    },
+    {
+        "question": "Affordable Roofing Eustis FL\n\nMenu\n\nAffordable Roo",
+        "chosen": " Rooﬁng Eustis FL\n\nAffordable Roofing Eustis FL\n\nAffordable Roofing Eustis FL\n\nAffordable Roofing Eus",
+        "reject": "fing Eustis FL\n\nThese days, with the unending evolution and innovation of various products and techno"
+    },
+    {
+        "question": "Askinosie Chocolate\n\nI’ve been a tad remiss in doi",
+        "chosen": " doiing a post on Askinosie Chocolate.  I’ve been a fan of their chocolate for a while now, and I’ve been meaning to do a post on them for a while now.  I’ve been meaning to do a post on them for a while now.  I’ve been meaning to do a post on them for a while now.  I",
+        "reject": "ng a write-up about one of the newest American chocolate-makers: Askinosie. When I heard about them, I couldn’t wait to get my hands on some bars of their bars. The only problem was that I wolfed them down too-quickly, before I could even write ‘em up.\n\nThen I’d heard"
+    },
+    {
+        "question": "                          T.C. Summary Opinion 201",
+        "chosen": "11-10\n\n                                 (11-10)\n\n                                 (11-10)\n\n                                 (11-10)\n\n                                 (",
+        "reject": "4-9\n\n\n\n                         UNITED STATES TAX COURT\n\n\n\nCURTIS JAY RICHARDSON AND VICTORIA J. RICHARDSON, Petitioners v.\n        COMMISSIONER OF INTERNAL REVENUE, R"
+    },
+    {
+        "question": "Q:\n\nWhat tcl command returns last evaluated comman",
+        "chosen": "man\n\nA:\n\nlast\n\nQ:\n\nWhat tcl command returns the number of arguments passed to a command\n\nA:\n\nargc\n\nQ:\n\nWhat tcl command returns the value of the nth argument\n\nA:\n\nargv\n\nQ:\n\nWhat tcl command returns the value of the nth argument\n\nA:\n\nargv\n\nQ:\n\nWhat tcl command returns the value of the nth argument\n\nA:\n\nargv",
+        "reject": "d?\n\nWhat tcl command returns last evaluated command? I think it should have something like bash history.\nI have tried this, but it prints empty string.\nset aaa bbb\nputs [history info]\n\nI have c++ program which create Tcl Interpreter and evaluates commands using it. In a specific moment I need to know what "
+    },
+    {
+        "question": "Table of Contents\n\nSSL/HTTPS with FOP2 (ACME Certi",
+        "chosen": " Certifiate)\n\nSSL/HTTPS with FOP2 (Self-Signed Certificate)\n\nSSL/HTTPS with FOP2 (Certificate from a CA)\n\nSSL/HTTPS with FOP2 (Certificate from a CA)\n\nSSL/HTTPS with FOP2 (Certificate from a CA",
+        "reject": "ficate)\n\nNote: AstLinux 1.3.0 or later is required\n\nIf you access FOP2 via an HTTPS connection, FOP2 can be configured to use SSL, internally secure websockets wss:, as such most modern browser"
+    },
+    {
+        "question": "Alteration of midkine expression associated with c",
+        "chosen": " c-myc and p53 in human hepatocellular carcinoma\n2009\nY. H. Lee\nS. H. Lee\nS. H. Kim\nS. H. Kim\nS. H. Kim\nS",
+        "reject": "hemically-induced differentiation in human neuroblastoma cells.\nMidkine (MK), a neurotrophic polypeptide "
+    },
+    {
+        "question": "1. Field of the Invention\nThe invention relates to",
+        "chosen": " to a method for the production of a high-quality, high-strength, high-modulus, high-toughness, high-impact-resistant, high-temperature-resistant, high-corrosion-resistant, high-wear-resistant, high-fatigue-resistant, high-abrasion-resistant, high-creep-resistant, high-fatigue-resistant, high-fatigue-resistant, high-fatigue",
+        "reject": " an air-bag device which can be inflated as a protective wall in front of a vehicle side wall.\n2. Discussion of the Prior Art\nA known air-bag device of the generic type (DE 296 10 920 U1; WO 96/26087) can be inflated as a protective wall in front of a vehicle side wall having vertical pillars. For this purpose, the air-bag "
+    },
+    {
+        "question": "U.S. Supreme Court\n\nRAY v. BLAIR, 343\nU.S. 214 (19",
+        "chosen": "952)\n\nThe Court held that the Fourteenth Amendment does not require a state to provide a jury trial in a civil case.\n\nThe Court held that the Fourteenth Amendment does not require a state to provide a jury trial in a civil case.\n\nThe Court held that the Fourteenth Amendment does not require a state to provide a jury trial in a civil case.",
+        "reject": "52)\n\nRAY, CHAIRMAN OF THE STATE DEMOCRATIC EXECUTIVE COMMITTEE OF\nALABAMA, v. BLAIR.\nCERTIORARI TO THE SUPREME COURT OF ALABAMA. No. 649.\nArgued March 31, 1952.\nDecided April 3, 1952.\n\nOpinions filed April 15, 1952.\n\nWhere a state authorizes a political party to choose its nominees for Presidential Electors in a state-controlled party pri"
+    },
+    {
+        "question": "Indeterminate CT angiography in blunt thoracic tra",
+        "chosen": " traumain a pediatric population: a single-center experience\n\nA.M. Al-Khatib, M.A. Al-Khatib, A. Al-Khatib, A. Al-Khatib, A",
+        "reject": "uma: is CT angiography enough?\nThe primary objective of our study was to determine whether catheter angiography is needed t"
+    },
+    {
+        "question": "Main menu\n\nTag Archives: Tired\n\nPost navigation\n\nI",
+        "chosen": "I’m tired of being tired.\n\nI’m tired of being tired.\n\nI’m tired of being tired.\n\n",
+        "reject": "’m struggling today. I need to write how I feel because it helps me and maybe in "
+    },
+    {
+        "question": "\"♪ Life is a rolling ocean ♪\" \"♪ If you want to st",
+        "chosen": " st- ♪\" \"♪ If you want to stay alive ♪\" \"♪ You gotta keep moving ♪\" \"♪ You gotta keep moving ♪\" \"♪ You gotta keep moving",
+        "reject": "ay in motion ♪\" \"♪ You gotta get, you gotta get ♪\" \"♪ You gotta get ahead of the wave ♪\" \"♪ Young love's never humble ♪\""
+    },
+    {
+        "question": "Genistein induces apoptosis by down-regulating thi",
+        "chosen": " thiamine pyrophosphate-dependent enzymes in human breast cancer cells\n2011\nA. M. S. M. A. M. A. M. A",
+        "reject": "oredoxin-1 in human hepatocellular carcinoma SNU-449 cells.\nGenistein (GEN), a natural isoflavonoid p"
+    },
+    {
+        "question": "January\n\nWarburtons’ MD BRETT WARBURTON is to beco",
+        "chosen": "co me the new chairman of the British Baker y Association.\n\nThe BAA has announced that it will be holding its annual conference in the Lake District in May.\n\nThe BAA has announced that it will be holding its annual conference in the Lake District in May.\n\nThe BAA has announced that it will be holding its annual conference in the Lake District in May",
+        "reject": "me executive director from April, with current finance director Robert Higginson taking over as MD. Brett Warburton, who has been MD for six years, will now focus on quality and technical matters. Mr Higginson takes up the position following five years as finance director. He will chair the operations board and join the main board of Warburtons.\n\nTh"
+    },
+    {
+        "question": "Receive Physical Tangible Items Encoded to Support",
+        "chosen": " Support Your Spiritual Growth\n\nThe following items are available for purchase.\n\n* <strong>The 12-Step Program for Spiritual Growth</strong>\n  This is a 12-step program for spiritual growth. It is a program that is designed to help you grow spiritually. It is a program that is designed to help you grow spiritually. It is a program that is designed to help you grow spiritually",
+        "reject": " and Shower you in ongoing Miracles from now forward!\n\nEach item is embedded with a Portal Access Point to Your Spirit Expression in Your everyday Life!\n\nSmall Encoded Miracle Crystal $444\n\nEncoded Miracle Essence Remedies $555\n\nEncoded Mastered Sound Healing Audio $777\n\nEncoded Commission Portal Painting $7777\n\nEncoded Healing Crystal Singing Bowl $5555\n\nEncoded Support Crys"
+    },
+    {
+        "question": "Q:\n\ncan not get value from radio button using jque",
+        "chosen": "quey\n\nA:\n\n$(this).val()\n\nQ:\n\nhow to get value from radio button using jquey\n\nA:\n\n$(this).val()\n\nQ:\n\nhow to get value from radio button using jquey\n\nA:\n\n$(this).val()\n\nQ:\n\nhow to get value from radio button using j",
+        "reject": "ry\n\nI try to get value from radio button, here's my code:\nvar isactive = result.IsActive;\n            $(\"input[name='RadioActive']\").each(function () {\n                if ($(this).val() == isactive) {\n            "
+    },
+    {
+        "question": "Description\n\nRare large timber property w/in 16 mi",
+        "chosen": " mi of downtown Asheville. This 100+ acre property is located in the heart of the Blue Ridge Mountains. The property is located in the heart of the Blue Ridge Mountains. The property is located in the heart of the Blue Ridge Mountains. The",
+        "reject": "les of I-5. Recently harvested & re-planted timber, mixed w/stands of re-prod & 15-20 yr old Doug Fir. Multiple parcels sold as one bulk sale. Excellent public rd access & good interior logging road system. Beautiful southerly views. Poten"
+    },
+    {
+        "question": "Q:\n\nadmin on rest hide resource component in sideb",
+        "chosen": "b\n\nA:\n\nadmin on rest hide resource component in sideb\n\nQ:\n\nadmin on rest hide resource component in sideb\n\nA:\n\nadmin on rest hide resource component in sideb\n\nQ:\n\nadmin on rest hide resource component in sideb\n\nA:\n\nadmin on rest hide resource component in sideb\n\nQ:\n\nadmin on rest hide resource component in side",
+        "reject": "ar\n\nI need a resource with all its configuration, but I don't want it to be showed in sidebar\n\nA:\n\nYou can omit the list prop for a Resource if you want to hide it in the sidebar menu.\n<Resource name=\"posts\" />\n\nA:\n\nAs explained in the documentation, you can provide your Menu component to the Admin component us"
+    },
+    {
+        "question": "Q:\n\nWriting and reading structs from file using mm",
+        "chosen": " mmio\n\nA:\n\n- struct is a data type that contains multiple variables of different types\n\n- struct is a user-defined data type\n\n- struct is a collection of variables of different types\n\n- struct is a user-defined data type\n\n- struct is a collection of variables of different types\n\n- struct is a user-defined data type\n\n- struct is a collection of",
+        "reject": "ap\n\nI am trying to read and write a struct using mmap, however the changes I do after the mmap are not being persisted to the disk or are not being loaded correctly.\nHere's my code sample, when run the first time the file is created and the prints show the correct data, on the second time when the file already exists the struct is empty, fille"
+    },
+    {
+        "question": "Howick and Pakuranga Times : Howick and Pakuranga ",
+        "chosen": " 2016-01-21\n\n<h1>Howick’s new mayor</h1>\n\n<strong>By:</strong> <strong><em>Howick and Pakuranga Times</em></strong>\n\n<strong><em>Howick and Pakuranga Times</em></strong>\n\n<strong><em>Howick and Pakuranga Times</em></strong>\n\n<strong>",
+        "reject": "Times Monday December 1 2014\n\nContents\n\nwww.times.co.nz\nHowick and Pakuranga Times, Monday, December 1, 2014 — 9\n!!!\"#$$%&'()'#*&+,\"-.\"+/\n01234035675318495:1;545:;<<5\n=<4;>2?53<735>:5916@;<5AB5C54285\n?<3D\n:E%%5FBG(#H5I*&#%5#+(5#5J#I&"
+    },
+    {
+        "question": "((output\n  (((f.ml (1 0) (1 7)) (paragraph (((f.ml",
+        "chosen": "ml (1 0) (1 7)) (paragraph (((f.ml (1 0) (1 7)) (paragraph (((f.ml (1 0) (1 7)) (paragraph (((f.",
+        "reject": " (1 0) (1 7)) (code_span .foo)))))))\n (warnings\n  ( \"File \\\"f.ml\\\", line 1, characters 2-2:\\\n   "
+    },
+    {
+        "question": "It's that time again. It's time for our monthly-is",
+        "chosen": "is-it-really-monthly-anymore-but-we-still-call-it-that-because-it's-a-tradition-and-we-like-traditions-and-we-like-to-be-consistent-and-we-like-to-be-consistent-and-we-like-to-be-consistent",
+        "reject": "h update regarding all things MLS Expansion. For those of you new to these updates, I have a bit of a fascination with MLS expansion (and expansion and contraction of pro sports leagues in "
+    },
+    {
+        "question": "Monday on MSNBC’s “The Rachel Maddow Show,” host R",
+        "chosen": " RACHEL MADDOW said the “real story” of the day was the “real story” of the day was the “real story” of the day was",
+        "reject": "achel Maddow expressed her dissatisfaction with Attorney General William Barr’s letter to Congress summarizing the "
+    },
+    {
+        "question": "-5*j\nExpand (-3 + 3 - 5)*(s**5 - 3*s**5 + s**5) + ",
+        "chosen": " 3*(-3 + 3 - 5)*(s**5 - 3*s**5 + s**5) + 3*(-3 + 3 - 5)*(s**5 - 3*s**5 + s**5) + 3*(-3 + 3 - 5)*(s**5 - 3*s**5 + s**5) +",
+        "reject": "(-4*s**2 - s**2 + 4*s**2)*(-3*s**2 + 3*s**2 - 2*s**3).\n7*s**5\nExpand (-1 - 4*i + 1)*(0*i**2 + 2*i**2 + 0*i**2)*(2*i**2 +"
+    },
+    {
+        "question": "\"Previously on Tyrant...\" \"There will be no peace ",
+        "chosen": " \nuntil we have a new king.\" \"I'm not going to be a king.\" \"You're going to be a king.\" \"I'm not going to be a king.\" \"You're going to be a king.\" \"I'm not going to be a king.\" \"You're going to be a",
+        "reject": "in Abbudin with my brother in power.\" \"You want to have a coup, oust your own brother?\" \"We need to remove Tariq before we remove Jamal.\" \"You have three days to turn Jamal against Tariq.\" \"You'll h"
+    },
+    {
+        "question": "                                                  ",
+        "chosen": "                   <strong>  </strong><strong>  </strong><strong>  </strong>",
+        "reject": "        [DO NOT PUBLISH]\n\n\n             IN THE UNITED STATES COURT OF APPEAL"
+    },
+    {
+        "question": "#!/bin/bash\n\nif [ ! -f \"misc/header_cpp.txt\" ] || ",
+        "chosen": " \n   [ ! -f \"misc/header_h.txt\" ] || \n   [ ! -f \"misc/header_hpp.txt\" ] || \n   [ ! -f \"misc/header_hxx.txt\" ] || \n   [ ! -f \"misc/header_hxx.txt\" ] || \n   [ ! -f \"misc/header_hxx",
+        "reject": "[ ! -f \"misc/header_lua.txt\" ];\nthen\n\techo \"Failed to find header files. Aborting.\"\n\texit\nfi\n\nfor file in $(find client server common -name \"*.*pp\");\ndo\n\tsed -i '1,26d' $file\n\tca"
+    },
+    {
+        "question": "Changing battery top/bottom voltages\n\nEither no on",
+        "chosen": " on/off switch or a switch that is not working.\n\nThe battery is not charging.\n\nThe battery is not charging.\n\nThe battery is not charging",
+        "reject": "e asked about this before or google just doesn't want me to find answer for that question.\nHow do i change voltages that my phone is cha"
+    },
+    {
+        "question": "[Cortical spreading depression and molecular genet",
+        "chosen": "et]\n[Cortical spreading depression and molecular genetics]\n[Cortical spreading depression and molecular genetics]\n[Cortical spreading depression and molecular genetics",
+        "reject": "ics in migraine].\nCortical spreading depression (CSD) is a slowly propagated wave of depolarization of neurons and glial cells, followed by a subsequent sustained supp"
+    },
+    {
+        "question": "Latest Activity\n\nTo all pregnant mothers, celebrat",
+        "chosen": "at es your pregnancy with us.\n\nWe are now accepting orders for o ur new product, the \"Baby's First Bib\".\n\nWe are now accepting orders for o ur new product, the \"Baby's First Bib\".\n\nWe are now accepting orders f or our new product, the \"Baby's First Bib\".\n\nWe are now accepting orders f or our new product, the \"Baby's First Bib\".\n\nWe are now accepting orders f or our",
+        "reject": "e with SMG Women’s Health at The Big Pregnancy Countdown! Hear from their gynae and paediatrician on things to watch out for during and after pregnancy. There will also be […]\n\nDeveloping yourself into a professional trader is a very challenging task. People don’t really understand the amount of effort the pro-Aussie traders have putinto learning the art of currenc"
+    },
+    {
+        "question": "Yes, you read that right. Eight men, only eight, o",
+        "chosen": " oodles of women, and a lot of drama.\n\nThe new season of <em>The Bachelorette</em> is here, and it’s a doozy.\n\nThe first episode of the season aired on Monday, and it was a doozy.\n\nThe first episode of the season aired on Monday, and it was a doozy.\n\nThe first episode of the season aired on Monday, and it was",
+        "reject": "wn as much wealth as the poorest half of the world. I knew the top one percent owned a significant portion of all the wealth in the world, but when I came across this article from Refinery29, I was reminded of the absurdity and dysfunctional aspect of wealth distribution in the world. While economies all over"
+    },
+    {
+        "question": "/* This file is automatically generated; do not ed",
+        "chosen": " edid it directly. */\n#include \"config.h\"\n#include \"config.h\"\n#include \"config.h\"\n#",
+        "reject": "it.     */\n/* Add the files to be included into Makefile.am instead. */\n\n#include <"
+    },
+    {
+        "question": "Ivanka Trump to receive White House office, securi",
+        "chosen": "uritized email\n\n[User 0001]\n\n<blockquote>I'm not sure what you're trying to say here.\n\nI'm not sure what you're trying to say here.\n\nI'm not sure what you're trying to say here.\n\n",
+        "reject": "ty clearance Ivanka Trump will not take a salary for her work.\n\n -- President Donald Trump's daughter Ivanka Trump will receive an office in the West Wing of the White House and "
+    },
+    {
+        "question": "The Mental Health Acts 1983 and 2007 and the offen",
+        "chosen": " offen- sive behaviour in public places act 1982 are the main pieces of legislation that govern the detention of people with mental health problems. The Mental Health Act 1983 is the main piece of legislation that governs the detention of people with mental health problems. The Mental Health Act 1983 is the main piece of legislation that governs the detention of people with mental health problems. The Mental Health Act 1983 is the main piece of legislation that governs",
+        "reject": "der-patient who absconds from hospital.\nAbsconding from mental hospitals is a topic worth investigating because absconding usually has a variety of adverse consequences, not only for the absconders but also for the public and so forth. From a medical perspective, there have been several studies of absconding by mental patients and the harm they cause to themselves and others while they are at large. However, there is a paucity of such studies from a purely legal perspe"
+    },
+    {
+        "question": "How I Surrendered to the Grief of Losing My Husban",
+        "chosen": "ban\n\nI’m not sure if I’ve ever written about this before, but I’ve been thinking about it a lot lately.\n\nI’ve been thinking about the day I surrendered to the grief of losing my husband.\n\nI’ve been thinking about the day I surrendered to the grief of losing my husband.\n\nI’ve been thinking about the day I surrendered to the grief of losing my husband",
+        "reject": "d\n\nOn February 4, 2009, I woke up to find that my husband had died in his sleep from an undetected heart condition. He was forty-nine years old. I was thirty-nine. It was the biggest shock of my life. The first two hours were a blur of emotion, pain, fear, shock, and denial. The next two and a half years have been a lesson in living life much more o"
+    },
+    {
+        "question": "Plan B: Relieve the Rich, Screw the Poor\n\nThe kabu",
+        "chosen": "u-kabu (stock market) is a place where the rich get richer and the poor get poorer.\n\nThe kabu-kabu is a place where the rich get richer and the poor get poorer.\n\nThe kabu-kabu is a place where the rich get richer and the poor get poorer.\n\nThe kabu-kabu",
+        "reject": "ki theater going on over John Boehner's Plan B is truly a wonder. Unlike some others, I don't think there's any mystery about why Boehner suddenly abandoned negotiations with President Obama and introduced his Plan B legislation. It's because, once aga"
+    },
+    {
+        "question": "High diagnostic efficacy of 5-aminolevulinic acid-",
+        "chosen": "-induced fluorescence in the detection of oral squamous cell carcinoma: a prospective study\n\nS. S. S. S. S. S. S",
+        "reject": "induced fluorescent urine cytology for urothelial carcinoma.\nIn general, urine cytology is often problematic bec"
+    },
+    {
+        "question": "This year, Trisha completes a decade in cinema. Ha",
+        "chosen": " Hailed as the most beautiful actress in the industry, Trisha has been a part of some of the biggest hits in Tamil cinema.\n\nThe actress has been a part of some of the biggest hits in Tamil cinema. She has been a part of some of the biggest hits in Tamil cinema.\n\nThe actress has been a part of some of the biggest hits in Tamil cinema.\n\nThe actress has been a part of some of the biggest hits in Tamil cinema.\n\nThe actress",
+        "reject": "ving been on the top for 10 years, the actress is happy, and she thanks everyone who had supported and encouraged her.\n\n\"My special thanks go to the fans the media,\" Trisha says, while saying that she is thankful to her directors, producers and co-stars. \"It has been a lovely journey,\" she says.\n\nAt a time when the market of an actress is believed not more than five years, Trisha is still ruling the roost in south Indi"
+    },
+    {
+        "question": "Impact of attention-deficit/hyperactivity disorder",
+        "chosen": " disorder on the quality of life of children and adolescents: a systematic review\n\nA. M. de Oliveira, M. C. de Oliveira, M. A. de Oliveira, M. A. de Oliveira, M. A",
+        "reject": " on health-related quality-of-l ife of specific learning disability children [corrected].\nTo evaluate the impact of co-occurring attention-deficit/hyperactivity di"
+    },
+    {
+        "question": "Please tell us which country and city you'd like t",
+        "chosen": " t...\n\nPlease tell us which country and city you'd like to visit.\n\nPlease tell us which country and city you'd like to visit.\n\nPlease tell us which country and city you'd like to visit.",
+        "reject": "o see the weather in.\n\nPune\n\nPune (IPA:[puɳe]English pronunciation: /ˈpuːnə/;) (Marathi: पुणे) is the ninth-most populous city in India and the second largest in the state of Maharashtr"
+    },
+    {
+        "question": "Okay, so here's the thing.\n\nI cannot be the only p",
+        "chosen": " pimple-faced, acne-ridden, zit-covered, blemish-ridden, skin-flawed, skin-imperfect, skin-impaired, skin-impaired, skin-impaired",
+        "reject": "erson who was really, really disappointed with the way Percy and Annabeth were portrayed in Blood of Olympus. It made them into s"
+    },
+    {
+        "question": "A thruster as here understood is a steerable propu",
+        "chosen": "pusion unit, which is used to move a vehicle in a desired direction. The thruster is a device that is used to move a vehicle in a desired direction. The thruster is a device that is used to move a vehicle in a desired direction. The thruster is a device that",
+        "reject": "lsion device arranged mainly beneath the hull of a marine vessel. The thruster is formed of a propeller unit (rotatable/steerable round a vertical axis) beneath the hull and of a substantially vertical housing. The propeller drive may be arranged mechanicall"
+    },
+    {
+        "question": "440-779-1430\n\n440-779-0746\n\nMichael W. Perry\n\nPres",
+        "chosen": "Presiding Judge\n\nJudge\n\nJudge\n\nJudge\n\nJudge\n\nJudge\n\nJudge",
+        "reject": "ident\n\nMike joined Szarka in 2003 as the Director of Fina"
+    },
+    {
+        "question": "Q:\n\nDjango: Filtering Queryset From Two Model Fiel",
+        "chosen": "iel\n\nA:\n\nDjango: Filtering Queryset From Two Model Fiel\n\nQ:\n\nDjango: Filtering Queryset From Two Model Fiel\n\nA:\n\nDjango: Filtering Queryset From Two Model Fiel\n\nQ:\n\nDjango: Filtering Queryset From Two Model Fiel\n\nA:\n\nDjango: Filtering Queryset From Two Model Fiel\n\nQ:\n\nDjango: Filtering Queryset From Two Model F",
+        "reject": "ds\n\nMy model has two fields (latitude and longitude) that I want to combine to form a point object. However, I cannot figure out how to filter based on a combination of those values:\nFor example:\n>>> from django.contrib.gis.geos import Point\n>>> lat = 5\n>>> lon = 1\n>>> pnt = Point(lat, lon)\n>>> buf = pnt.buffer"
+    },
+    {
+        "question": "What is the goal of an abortion? Is it to end a pr",
+        "chosen": " pr...\n\n[User 0001]\n\n<blockquote>I'm not sure what you mean by \"the goal of an abortion.\"\n\nI'm not sure what you mean by \"the goal of an abortion.\"\n\nI'm not sure what you mean by \"the goal of an abortion.\"\n\n",
+        "reject": "egnancy or kill a baby?\n\nThis is not a trick question. While a completed abortion always ends a pregnancy, in a surprising number of cases, it does not always kill a child. In spite of an abortionist’s deadl"
+    },
+    {
+        "question": " \nPraise for the\n\nJam Today\n\nSeries\n\n\"Delightful .",
+        "chosen": " . . . a great way to introduce children to the world of cooking.\"\n\n—The New York Times\n\n\"The Jam Today series is a great way to get kids involved in the kitchen.\"\n\n—The Washington Post\n\n\"The Jam Today series is a great way to get kids involved in the kitchen.\"\n\n—The Washington Post\n\n\"The Jam Today series is a great way to get kids involved in the kitchen.\"\n\n—The Washington Post",
+        "reject": " . . written by a woman who values food, family and friends.\"\n\n—Shelf Awareness\n\n\"Davies's creative joy in food and the world around her is infectious.\"\n\n—Bookslut\n\n\"Jam Today, whose title is culled from a line in one of Lewis Carroll's Alice in Wonderland books, isn't so much a cookbook as it is ruminations on food preparation and living right.\"\n\n—Cascadia Weekly\n\n\"Tod Davies t"
+    },
+    {
+        "question": "Characterization of a cashew allergen, 11S globuli",
+        "chosen": "buli\n\nn protein, by mass spectrometry\n\na\n\na\n\na\n\na\n\na\n\na\n\na\n\na\n\na",
+        "reject": "n (Ana o 2), conformational epitope.\nBoth linear and conformatio"
+    },
+    {
+        "question": "One of the few spits of pavement stretched out bef",
+        "chosen": " bef ore me. I was in the middle of the road, and I was alone. I was in the middle of the road, and I was alone. I was in the middle of the road, and I was alone",
+        "reject": "ore my wife and I as we made our way through the swamp. Ever aware of the ground nearby, our footfalls allowed us slow, deliberate progress. Speed is not the nam"
+    },
+    {
+        "question": "Recruitment of specific flavonoid B-ring hydroxyla",
+        "chosen": "la-tion enzymes in the biosynthesis of flavonoids in the genus <em>Vitis</em>\n\n<em>Plant Science</em>, 2013, <strong>201</strong>, 10-18\nY. Wang, Y. Wang, J. Wang, Y. Wang, Y. Wang, Y",
+        "reject": "ses for two independent biosynthesis pathways of flavone-derived metabolites in grasses.\nIn rice (Oryza sativa), OsF2H and OsFNSII direct flavanones to independent pathways that form "
+    },
+    {
+        "question": "Independence Day\n\nO Captain! My Captain\n\nDon't tel",
+        "chosen": " tel me the sky is the limit when there are footprints on the moon\n\nThe best way to predict the future is to create it\n\nThe only way to do great work is to love what you do\n\nThe only way to do great work is to love what you do\n\nThe only way to do great work is to love what you do",
+        "reject": "l anybody over at the Charleston Symphony Orchestra's front office that any part of their operation has gone the way of the dinosaurs. But wouldn't your outfit be leaner (and a lot meaner) if the price of staying in business was a 25 percent, across-the-board pay cut? At least mo"
+    },
+    {
+        "question": "Q:\n\nUITableViewCell's attributes are nil when inst",
+        "chosen": " instanciated\n\nA:\n\nUITableViewCell's attributes are nil when instanciated\n\nQ:\n\nUITableViewCell's attributes are nil when instanciated\n\nA:\n\nUITableViewCell's attributes are nil when instanciated\n\nQ:\n\nUITableViewCell's attributes are nil when instanciated\n\nA:\n\nUITableViewCell's attributes are nil when instanciated\n\nQ:\n\nUITableViewCell's attributes are nil when",
+        "reject": "antiating UITableView as a popover\n\nI have a UIViewController with a UISegmentedControl from which I'd like to present a UITableViewController as a popover when I click on a segmentedControl segment. The issue I'm having is the moment I click on a segment, the popover starts to load, but crashes as myPopoverTableViewController loads. It crashes in \noverride "
+    },
+    {
+        "question": "Q:\n\nPTIJ - Heart transplants\n\nShemos 25:2 states:\n",
+        "chosen": "\n\"And you shall make a sanctuary for me, and I will dwell in their midst.\"\n\nA:\n\nThe Gemara (Yoma 21b) states that the verse refers to the Temple.\n\nThe Gemara (Yoma 21b) states that the verse refers to the Temple.\n\nThe Gemara (Yoma 21b) states that the verse refers to the Temple.",
+        "reject": "\nוְיִקְחוּ־לִ֖י תְּרוּמָ֑ה מֵאֵ֤ת כׇּל־אִישׁ֙ אֲשֶׁ֣ר יִדְּבֶ֣נּוּ לִבּ֔וֹ תִּקְח֖וּ אֶת־תְּרוּמָתִֽי׃\nAnd they should take for me a donation from any man who wishes to donate his heart, they should take his donation.\n\nThis is carried out in Shemos 35:22:\n\nכל נדיב לב הביאו\nEach "
+    },
+    {
+        "question": "Wish I had a stuffed animal: Someone's not too hap",
+        "chosen": " hap-py about the new stuffed animal in the house.\n\nThe new stuffed animal is a gift from a friend.\n\nThe new stuffed animal is a gift from a friend.\n\nThe new stuffed animal is a gift from a friend",
+        "reject": "py to be competing in the Waterloo Kennel\nClub's dog show.\n\nWish I had a stuffed animal: Someone's not too happy to be competing in the Waterloo Kennel Club's dog show.\n\nPhoto: Dennis Magee, Assoc"
+    },
+    {
+        "question": "1. Field of the Invention\nThe present invention re",
+        "chosen": " reates to a method of producing a high-quality, high-strength, high-modulus, high-toughness, high-impact-resistance, high-temperature-resistant, high-corrosion-resistant, high-wear-resistant, high-fatigue-resistant, high-creep-resistant, high-fatigue-resistant, high-creep-resistant, high-fatigue-resistant, high-creep",
+        "reject": "lates to phenylenediamine derivatives and methods for using the same. In one particular aspect of the present invention, phenylenediamine derivatives of the present invention are used as an additive in chemically amplified photoresist films for increasing the energy latitude (EL) margin, and improving a contrast value"
+    },
+    {
+        "question": "The business opportunities from social problems\n\nB",
+        "chosen": "B.Sc. (Hons.) in Business Administration\n\nThe business opportunities from social problems\n\nThe business opportunities from social problems\n\nThe business opportunities from social problems",
+        "reject": "usinesses exist for societies, without a society there will be no business. The society starts before a business, so in other words, business follow societies and not societies following "
+    },
+    {
+        "question": "Meta\n\nMonth: March 2015\n\n“Be true to yourself. But",
+        "chosen": " But don’t take yourself too seriously.”\n\n— Oscar Wilde\n\n“The only way to do great work is to love what you do.”\n\n— Steve Jobs\n\n“The only way to do great work is to love what you do.”\n\n— Steve Jobs\n\n“The only way to do great work is to love what you do.”\n\n— Steve Jobs",
+        "reject": " that’s something everyone says and no one means. No one wants you to be yourself. They want you to be the version of yourself that they like.”\n\nThat’s an excerpt from The Young Elites, written by Marie Yu. It’s an interesting quote and a bleak one. I find it’s not al"
+    },
+    {
+        "question": "Observations focused on the problems of an underde",
+        "chosen": "developped and underused area of the city of Porto, the area of the old industrial zone of the city, the area of the old industrial zone of the city, the area of the old industrial zone of the city",
+        "reject": "veloped country, Venezuela, with some serendipity about the world (orchids, techs, science, investments, politics) at large. A famous Venezuelan, Juan Pablo Perez Alfonzo, referred to oil as the de"
+    },
+    {
+        "question": "Synthesis and structures of Zn(C6H12OS2)2(ClO4)2 a",
+        "chosen": " a new coordination polymer and Zn(C6H12OS2)2(ClO4)2·2H2O a new coordination polymer\n\nZHANG Jian-ping, ZHANG Li-ping, ZHANG Li-ping, ZHANG Li",
+        "reject": "nd Zn(C3H6NS2)2(C3H4N2)--model compounds for the Zn sites in RNA polymerase.\nModel compounds for the Zn sites of the beta' and the beta subun"
+    },
+    {
+        "question": "It All Comes Full Circle\n\nSeptember 27, 2010\n\nIt s",
+        "chosen": " s been a long time since I ve written a blog. I ve been busy with work and life and I ve been trying to figure out what I want to say. I ve been trying to figure out what I want to do. I ve been trying to figure out what I want to be.\n\nI ve been trying to figure out what I want to be.\n\nI ve been trying to figure out what I want to be.\n\nI",
+        "reject": "tarts on a golf course and apparently ends on a golf course. The 2010 season, that is.\n\nEarly January this year saw me arrive at a cool, windy, and wet golf course alongside the Algarve coast in the western Mediterranean. Team camp commenced bringing in my second year with the Cervelo TestTeam all throughout the circuitous roads mapped ac"
+    },
+    {
+        "question": "Pages\n\nMonday, 2 March 2015\n\nThe Problems With | F",
+        "chosen": " F. Scott Fitzgerald\n\nThe Problems With | F. Scott Fitzgerald\n\nThe Problems With | F. Scott Fitzgerald\n\nThe Problems With |",
+        "reject": "ifa 15\n\nOf Course every game has its pros and cons and Fifa every year seems to have it's own bugs and glitches; they will "
+    },
+    {
+        "question": "I doubt that any event in human history has been a",
+        "chosen": " a more important factor in the development of the modern world than the discovery of America. The discovery of America was the most important event in the history of the world. It was the most important event in the history of the world. It was the most important event in the history of the world. It",
+        "reject": "s thoroughly discussed and documented as the Second World War, the gigantic global struggle that ended three generations ago and shaped our modern world. Elements of that conflict have probably been the subject of hundreds of thousands of books over the decades along with countless articles in newspap"
+    },
+    {
+        "question": "Pages\n\nSaturday, December 24, 2011\n\nAm I Missing S",
+        "chosen": " S.O.M.E.T.H.I.N.G.?\n\nI’m not sure if I’m missing something, but I’m not sure if I’m missing something.\n\nI’m not sure if I’m missing something, but I’m not sure if I’m missing something.\n\nI’m not sure if I’m missing something, but I’m not sure if I’m missing something.",
+        "reject": "omething?\n\nI was reading a recent decision by the U.S. 5th Circuit Court of Appeals. The question was whether an illegal alien enjoys the \"right of the people to keep and bear arms.\" The Court of Appeals decided that he did not. I don't find their reasoning very persua"
+    },
+    {
+        "question": "I’m in . I’m running for Congress.\n\n\n\nI’m running ",
+        "chosen": " <b>against</b> the establishment.\n\nI’m running <b>against</b> the status quo.\n\nI’m running <b>against</b> the corrupt politicians who have sold out the American people.\n\nI’m running <b>against</b> the politicians who have sold out the American people.\n\nI’m running <b>against</b> the politicians who have sold out the American people.\n\nI’m running <b>against</b> the",
+        "reject": "because I promised Charlaina and Rick that I would. Charlaina called me a few weeks ago, from the hospital. She told me that her husband, Rick, was suffering from multiple organ failure – lungs, kidneys and liver.\n\n\n\nRick was 56 years old. That’s three years older than me.\n\n\n\nRick was a veteran. But the Veterans Administration wasn’t covering his hospital bills .\n\n"
+    },
+    {
+        "question": "Not just for trauma patients: damage control lapar",
+        "chosen": " laparotomy for the treatment of severe sepsis\n\nA.J. van der Hoeven, M.J. van der Hoeven, J.J. van der Hoeven, J.J. van der Hoeven, J",
+        "reject": "otomy in pancreatic surgery.\nDamage control laparotomy (DCL) has been a major advance in modern trauma care. The principles of damage"
+    },
+    {
+        "question": "A downhole coupling connects adjacent members of a",
+        "chosen": " a downhole tool string. The coupling is designed to be assembled and disassembled in the wellbore. The coupling is designed to be assembled and disassembled in the wellbore. The coupling is designed to be assembled and disassembled in the wellbore",
+        "reject": " string of tools, rods, or tubing together within a well. A shear coupling may be positioned near the base of a sucker rod string above a downhole pump. Now and then the pump may get stuck, for example, if a well has scale or paraffin problems. A s"
+    },
+    {
+        "question": "If I forgot any big names or used someone in multi",
+        "chosen": " multi-fandom, please let me know!\n\nI'm not sure if I'll do a part 2, but I'll see how this goes.\n\nI'm not sure if I'll do a part 2, but I'll see how this goes.\n\nI'm not sure if I'll do a part 2, but I'll see how this goes.",
+        "reject": "ple picks, let me know. Used CBS for some ordering of the prospects\n\n• Oakland trade 1st rounder to Miami for a 1st and 2nd rounder (IND)\n• New York Jets trade 1st rounder to St. Louis for 1st and 3rd rounder\n• New Orleans "
+    },
+    {
+        "question": "Schizophrenia with prominent catatonic features ('",
+        "chosen": " ('catatonic schizophrenia') is a rare subtype of schizophrenia. It is characterized by a combination of catatonic symptoms and schizophrenia. Catatonic schizophrenia is a subtype of schizophrenia that is characterized by a combination of catatonic symptoms and schizophrenia. Catatonic schizophrenia is a rare subtype of schizophrenia that is characterized by a combination of catatonic symptoms and schizophrenia. Catatonic schizophrenia is a rare subtype of schizophrenia that is characterized by a combination of catatonic symptoms and schizophrenia. Catatonic schizophrenia is a rare",
+        "reject": "catatonic schizophrenia'). II. Factor analysis of the catatonic syndrome.\nPrevious factor analyses of catatonia have yielded conflicting results for several reasons including small and/or diagnostically heterogeneous samples and incomparability or lack of standardized assessment. This study examined the factor structure of catatonia in a large, diagnostically homogenous sample of patients with chronic schizophrenia using standardized rating instruments. A random sample of 225 Chinese inpatients diagnosed with schizophrenia according to DSM-IV criteria were selected from the long-st"
+    },
+    {
+        "question": "Friday, November 28, 2008\n\nI'm sick of those terro",
+        "chosen": "roists.\n\nI'm sick of those terroists.\n\nI'm sick of those terroists.\n\nI'm sick of those ter",
+        "reject": "r crimes.\nI'm sick of some looser fanatic group killing random western innocent people.\nI'"
+    },
+    {
+        "question": "Milano Fit Sharkskin Three-Piece 1818 Suit\n\nDetail",
+        "chosen": "Detail:\n\n* 100% Wool\n* 100% Wool Lining\n* 2 Button\n* 2 Button Cuff\n* 2 Button Vest\n* 2 Button Pants\n* 2 Button Pants\n* 2 Button Pants",
+        "reject": "s\n\nPromotions\n\nDescription\n\nOur slimmest style, this Milano Fit sharkskin suit is crafted from fabric woven in Italy exclusively for "
+    },
+    {
+        "question": "Vysera reviews - read the reviews of vysera-cls, V",
+        "chosen": " Viseral, and Viseral-cls.\n\nVysera reviews - read the reviews of vysera-cls, Viseral, and Viseral-cls.\n\nVysera reviews - read the reviews of vysera-cls, Viseral, and Viseral-cls.\n\nVysera reviews - read the reviews of vysera-cls,",
+        "reject": "ysera-cls doesn’t just help you get trimmer… it actually works to “reshape” your entire body. this incredible formula can help you get tighter, leaner, and.\nVysera cls - must read review about vysera cls - youtube, Http://goo.gl"
+    },
+    {
+        "question": "1. Field of the Invention\nThe present invention re",
+        "chosen": " reates to a method of producing a high-quality, high-strength, high-modulus, high-toughness, high-impact-resistance, high-temperature-resistant, high-corrosion-resistant, high-wear-resistant, high-fatigue-resistant, high-creep-resistant, high-fatigue-resistant, high-creep-resistant, high-fatigue-resistant, high-creep",
+        "reject": "lates to phenylenediamine derivatives and methods for using the same. In one particular aspect of the present invention, phenylenediamine derivatives of the present invention are used as an additive in chemically amplified photoresist films for increasing the energy latitude (EL) margin, and improving a contrast value"
+    },
+    {
+        "question": "How @VivintHome is helping families prevent childr",
+        "chosen": "r...\n\n[User 0001]\n\n<b>How @VivintHome is helping families prevent childr...</b>\n\n<b>How @VivintHome is helping families prevent childr...</b>\n\n<b>How @VivintHome is helping families prevent childr...</b>",
+        "reject": "en with Autism from wandering away from home\n\nAutism is growing exponentially and it seems like we’re always getting new numbers and statistics to demonstrate that growth.\n\nThere are a great many things "
+    },
+    {
+        "question": "Mismatch negativity and psychoacoustic measures of",
+        "chosen": " of auditory processing in children with autism spectrum disorder\n\nA. M. S. de Oliveira, M. A. S. de Oliveira, M. A. S. de Oliveira, M. A",
+        "reject": " gap detection in normally hearing subjects.\nTemporal auditory processing deficits are thought to play an important role in some patholog"
+    },
+    {
+        "question": "Effect of the contents and form of rabies glycopro",
+        "chosen": "pro-tein on the induction of neutralizing antibodies in mice\n2011\nA. A. Kolesnikova, A. A. Kolesnikov, A. A. Kolesnikov, A. A. Kolesnikov",
+        "reject": "tein on the potency of rabies vaccination in cattle.\nOne of the methods used for controlling cattle rabies in Brazil consists of vaccinat"
+    },
+    {
+        "question": "1. Field of the Invention\nThe present invention re",
+        "chosen": " reates to a method of producing a high-quality, high-strength, high-modulus, high-toughness, high-impact-resistance, high-temperature-resistant, high-corrosion-resistant, high-wear-resistant, high-fatigue-resistant, high-creep-resistant, high-fatigue-resistant, high-creep-resistant, high-fatigue-resistant, high-creep",
+        "reject": "lates to phenylenediamine derivatives and methods for using the same. In one particular aspect of the present invention, phenylenediamine derivatives of the present invention are used as an additive in chemically amplified photoresist films for increasing the energy latitude (EL) margin, and improving a contrast value"
+    },
+    {
+        "question": "Today I learned that some stories don't need ledes",
+        "chosen": "des.\n\nI'm not sure if I'm supposed to be writing this, but I'm going to anyway.\n\nI'm not sure if I'm supposed to be writing this, but I'm going to anyway.\n\nI'm not sure if I'm supposed to be writing this, but I'm going to anyway",
+        "reject": ".\n\nAccording to Pornhub Insights, \"President-elect Donald Trump's current wife, Melania Trump, was searched 1538% more, former wife 'Ivanka Trump' +1169% and daughter 'Tiffany Trump' +2548% more than their average levels\" the da"
+    },
+    {
+        "question": "FAQ\n\nOur wonderful video game will be released for",
+        "chosen": " for free on the 1st of April 2021.\n\nWe are currently working on the game and we will be releasing a demo soon.\n\nWe are currently working on the game and we will be releasing a demo soon.\n\nWe are currently working on the game and we will be releasing a demo soon",
+        "reject": " Windows, Mac, and Linux.\n\nWill it be released for mobile phones like the Android or the iPhone?\n\nWell, first of all, “Android” is not a mobile phone, it’s an operating system, but whatever.\nYes, we are thinking, in a not so far away future, maybe when Portugal "
+    },
+    {
+        "question": "Places where dreams dwell when they were pushed. U",
+        "chosen": " Unexplored, uncharted, and uninhabited.\n\nThe place where the dreams go when they are pushed away.\n\nThe place where the dreams go when they are pushed away.\n\nThe place where the dreams go when they are pushed away",
+        "reject": "s somewhere, you'd think they see only the death. In a ringing voice and the waves flurry of feathers. Eyes lighted upon me, and squinted at him, a when he hit. As good a time one can be sheltered overhead.\nSling,"
+    },
+    {
+        "question": "Note: Javascript is disabled or is not supported b",
+        "chosen": " b y your browser. For this reason, some items on this page will be unavailable. For more information about this message, please visit this page: About CDC.gov.\n\n* <strong>CDC</strong>\n* <strong>CDC</strong>\n* <strong>CDC</strong>\n* <strong>",
+        "reject": "y your browser. For this reason, some items on this page will be unavailable. For more information about this message, please visit this page: About CDC.gov.\n\nExposure interactions in occupational/environmental toxicology.\n\nInteractions in o"
+    },
+    {
+        "question": "When cancer and motherhood collide\n\nStrangely, it ",
+        "chosen": " <em>is</em> possible to be a mother and have cancer at the same time.\n\nI know this because I am one of those women.\n\nI am a mother of two young children, and I have breast cancer.\n\nI am a mother of two young children, and I have breast cancer.\n\nI am a mother of two young children, and I have breast cancer",
+        "reject": "turns out that cancer and motherhood have quite a lot in common, as Sarah Hampson discovered in the fall of 2017. Each changes our lives and sets us on a course that will never be exactly the same\n\nGlobe and Mail writer Sarah Hampson is photographed with her sons on May 2, 2019. From left: Tait Clarridge, "
+    },
+    {
+        "question": "In a statement to the SAC steering board and NATO ",
+        "chosen": " 2030, the Alliance’s Secretary General, Jens Stoltenberg, said that the Alliance is “ready to adapt to the new security environment” and that “we are ready to adapt to the new security environment”.\n\n“We are ready to adapt to the new security environment. We are ready to adapt to the new security environment. We are ready to adapt to the new security environment. We",
+        "reject": "Airlift Management Organization Board of Directors at a semi-annual meeting in Tallinn, Estonia, Boone stated \"as the HAW commander I have the privilege to declare that effective 14 November 2012 the Strategic Airlift Capability Heavy Airlift Wing has reached full operational capability.\"\n\nThe SAC is a cooperative effort of 12 nations: Bulgaria, Estonia, Finland, Hun"
+    },
+    {
+        "question": "Enter the Soviet! So here we go! One of the many g",
+        "chosen": " ghouls that I've been working on for a while now. I've been working on this one for a while now, and I'm really happy with how it turned out. I've been working on this one for a while now, and I'm really happy with how it turned out. I've been working on this one for a while now, and I'm really happy with how it turned out",
+        "reject": "overnment bunkers in the Moscow metro. Hot stuff. Or, I’d rather call it a reserve command post. This one was called “Sovietskaya” (as the old name of the square on the surface) by the journalists of the early 1990’s, a great, but short time of freedom between ...\n\nThe Royal Mail Rail The Mail Rail can truly be considered o"
+    },
+    {
+        "question": "[Goiter in school children from the Rzeszow distri",
+        "chosen": "ricy]\n[Goiter in school children from the Rzeszow districy]\n[Goiter in school children from the Rzeszow districy]\n[Goiter in school children from the Rzeszow dist",
+        "reject": "ct].\n14481 children at the age of 6 to 15 including 7242 boys and 7239 girls underwent the examination. Children from rural areas were the majority-12240. Goiter "
+    },
+    {
+        "question": "Love\n\nBringing a spiritual perspective to world ev",
+        "chosen": " ev\n\nThe 100th anniversary of the birth of the\n\nThe 100th anniversary of the birth of the\n\nThe 100th anniversary of the birth of the",
+        "reject": "ents and daily life.\n\nNovember 13, 1996\n\nChrist Jesus, who healed and saved countless people, did so by showing God to be Love. God "
+    },
+    {
+        "question": "Calpain and Caspase-12 Expression in Lens Epitheli",
+        "chosen": "heliocytes of Patients with Cataract\n\n<b>Author Name :</b> Dr. S. S. Patil, Dr. S. S. Patil, Dr. S. S. Patil,",
+        "reject": "al Cells of Diabetic Cataracts.\nTo compare the expression of calpain and caspase-12 in human lens epithelial "
+    },
+    {
+        "question": "University, MS\n\nDefinition of Class This position ",
+        "chosen": " <b>is</b> responsible for the development and implementation of a comprehensive <b>is</b> responsible for the development and implementation of a comprehensive <b>marketing</b> plan for the University <b>is</b> responsible for the development and implementation of a comprehensive <b>marketing</b> plan for the University <b>is</b> responsible for the development and implementation of a comprehensive <b>marketing</b> plan for the University",
+        "reject": "develops and maintains software applications and /or integrates internal processes with external services. The incumbent exercises independent discretion and judgment while designing algorithms and data structures, enhancing or developing new software and conducting unit level and integration testing. Incumbent works with autonomy and functions as a technical project leader as needed and may manage designated projects. Examples of Work Per"
+    },
+    {
+        "question": "The Rose Gold craze has passed. Now, it’s all abou",
+        "chosen": " abou the rose gold.\n\nThe rose gold is a new color that is taking over the world. It’s a beautiful color that can be used in many different ways.\n\nThe rose gold is a new color that is taking over the world. It’s a beautiful color that can be used in many different ways.\n\nThe rose gold is a new color that is taking over the world. It’s a beautiful color that can be used in many different ways",
+        "reject": "t Millennial Pink. And of course, no color trend would be complete without a wide variety of delicious treats for everyone to enjoy.\n\nWalt Disney World now has a selection of Millennial Pink treats for guests to enjoy throughout the parks and resorts.\n\nAt Magic Kingdom, guests can visit Auntie Gravity’s Galactic Goodies in Tomorrowland for the new Millennial Pink Milkshake. This strawberry m"
+    },
+    {
+        "question": "Q:\n\nPrimeNG autocomplete doesn't show suggestions\n",
+        "chosen": "\nA:\n\nThe autocomplete component is not working as expected.\n\nQ:\n\nPrimeNG autocomplete doesn't show suggestions\n\nA:\n\nThe autocomplete component is not working as expected.\n\nQ:\n\nPrimeNG autocomplete doesn't show suggestions\n\nA:\n\nThe autocomplete component is not working as expected.\n\nQ:\n\nPrimeNG autocomplete doesn't show suggestions\n\n",
+        "reject": "\nI'm using PrimeNg p-autocomplete in this way:\n<p-autoComplete id=\"area\" [(ngModel)]=\"areaSearch\" [ngModelOptions]=\"{standalone: true}\" [suggestions]=\"results\" (completeMethod)=\"retrieveArea($event)\" field=\"name\"></p-autoComplete>\n\nIn component:\nretrieveArea(event) {\n    let searchString = event.query;\n    this.results = [];\n    sea"
+    },
+    {
+        "question": "Tell me your ride stories\n\nI went for my usual Sat",
+        "chosen": " Sat morning ride, and I was on the way back home, and I was going down a hill, and I was going about 30mph, and I was going down a hill, and I was going about 30mph, and I was going down a hill, and I was going about 30mph",
+        "reject": "urday morning ride yesterday. It started out OK, but about 10 miles into my ride I had this real sinking feeling. I stopped and saw that I was riding on the rim on my back tire. Yes, I had a flat. So I pushed my bike up the"
+    },
+    {
+        "question": "Peter Stumpp\n\nPeter Stumpp (died 1589) (whose name",
+        "chosen": " name is also spelled Stumpp, Stumpp, Stumpp, St",
+        "reject": " is also spelled as Peter Stube, Peter Stubbe, P"
+    },
+    {
+        "question": "Cleavage of Bax-alpha and Bcl-x(L) during carbopla",
+        "chosen": "oplacin-induced apoptosis in human leukemia cells.   <em><strong>总被引：10，自引：0，他引：10</strong></em>  \nM A O'Connor  M M O'Connor  M M O'Connor  M J O'Connor  M J O'Connor  M J O",
+        "reject": "tin-mediated apoptosis in squamous cell carcinoma cell line.\nAlthough carboplatin (CBDCA) has been used for the treatment of several types of tumors, the complete response ra"
+    },
+    {
+        "question": "Stroke Epidemiology and Risk Factor Management.\nDe",
+        "chosen": "De la Cruz, M.\n2019\n2019-01-01T00:00:00Z\n2019-01-01T00:00:00Z\n2019-01-01T00:00:00Z\n2",
+        "reject": "ath from stroke has decreased over the past decade, with stroke now the fifth leadin"
+    },
+    {
+        "question": "1. Field of the Invention\nThe present invention re",
+        "chosen": " reates to a method of producing a high-quality, high-strength, high-modulus, high-toughness, high-impact-resistance, high-temperature-resistant, high-corrosion-resistant, high-wear-resistant, high-fatigue-resistant, high-creep-resistant, high-fatigue-resistant, high-creep-resistant, high-fatigue-resistant, high-creep",
+        "reject": "lates to phenylenediamine derivatives and methods for using the same. In one particular aspect of the present invention, phenylenediamine derivatives of the present invention are used as an additive in chemically amplified photoresist films for increasing the energy latitude (EL) margin, and improving a contrast value"
+    },
+    {
+        "question": "Q:\n\nUse Values from Raster Statistics (e.g. sum of",
+        "chosen": " of values in a raster)\n\nA:\n\n- Use the raster statistics tool to calculate the sum of values in a raster\n\n- The raster statistics tool can be used to calculate the sum of values in a raster\n\n- The raster statistics tool can be used to calculate the sum of values in a raster\n\n- The raster statistics tool can be used",
+        "reject": " all cells) in Raster Calculator\n\nI need to do calculations on raster layers which require the sum of all cells of the raster. I've used the zonal statistics tool for that but it gets a little annoying to do those extra steps (run the plugin, open the Attribute table, copy the sum...).\nIs there a way I can calculat"
+    },
+    {
+        "question": "Pages\n\nOctober 22, 2014\n\nThe Town that Dreaded Sun",
+        "chosen": " Sunsets\n\nBy:  John W. Whitehead\n\nThe Town that Dreaded Sunsets\n\nThe Town that Dreaded Sunsets\n\nThe Town that Dreaded Sunsets",
+        "reject": "down is one of those titles that just sticks in the brain, even if you know nothing else about the movie. That is pretty much"
+    },
+    {
+        "question": "This is a cosmetically challenged GAR-14M-R rail. ",
+        "chosen": " \n\nIt is a 14\" rail with a 15\" M-LOK handguard. \n\nIt is a 1.5\" diameter rail with a 1.3\" diameter handguard. \n\nIt is a 1.5\" diameter rail with a 1.3\" diameter handguard. \n\nIt is a 1.5\" diameter rail with a 1.3\" diameter",
+        "reject": "It has no warranty.\n\nFor Galil ACE rifle length gas system rifles with single long cross-bolt handguard\n\nIS NOT COMPATIBLE with pistol style or rifle length with twin opposed handguard bolts Galil Ace models"
+    },
+    {
+        "question": "Q:\n\nOutput input if it doesn't contain specific St",
+        "chosen": " Stata commands\n\nA:\n\n.\n\nQ:\n\nOutput input if it contains Stata commands\n\nA:\n\n.\n\nQ:\n\nOutput input if it contains Stata commands and output\n\nA:\n\n.\n\nQ:\n\nOutput input if it contains Stata commands and output\n\nA:\n\n.\n\nQ:\n\nOutput input if it contains Stata commands and output",
+        "reject": "ring\n\nI have what seems to be a rather simple problem, but I can't find an answer to it.\nI'm working on a travis script which validates files.\nI'm using 3rd party software for this and therefore I have no influence on the development.\nThe Problem:\nAs you may know trav"
+    },
+    {
+        "question": "Frequently purchased together\n\nThe Dakine Wrangler",
+        "chosen": " Wrangler is a great all-around bag for the rider who wants to carry a lot of gear. The Wrangler is a great bag for the rider who wants to carry a lot of gear. The Wrangler is a great bag for the rider who wants to carry a lot of gear. The Wrangler is a great",
+        "reject": " glove is what you get when you cross a classic leather work glove with an old school ski racing mitt. In other words, these things are ready to put in some work. A leather outer keeps your hand safe from the elements, and just gets better as it breaks in. Th"
+    },
+    {
+        "question": "The Keystone XL would tap into the second biggest ",
+        "chosen": " <strong>oil</strong> reserve in the world, the <strong>oil</strong> sands of Alberta, Canada.\n\nThe Keystone XL would tap into the second biggest <strong>oil</strong> reserve in the world, the <strong>oil</strong> sands of Alberta, Canada.\n\nThe Keystone XL would tap into the second biggest <strong>oil</strong> reserve in the world, the <strong>oil</strong> sands of Alberta, Canada.\n\nThe Keystone XL would tap into the second biggest",
+        "reject": "petroleum reserves on Earth. If it had been approved, it would run from Hardisty, Alberta, to Port Arthur, Texas. The $7 billion, 830,000-barrel a day project would go from Canada, through the Great Plains, crossing six states and ending in Texas. At left, an open pit mine in Fort McMurray, Alberta.\n\n1. The oil sands deposit is massive — and so is the pipeline\n\n1. The oil sands deposit is massive — and so is the pipeline The Keysto"
+    },
+    {
+        "question": "Usefulness of dual SPECT with Tc-99m pyrophosphate",
+        "chosen": "phosphate and Tc-99m sestamibi in the diagnosis of myocardial infarction\n\nA. A. El-Sayed, M. A. El-Sayed, M. A. El-Sayed, M",
+        "reject": " and Tl-201 to predict further events after acute myocardial infarction with single-vessel coronary artery disease.\nThis st"
+    },
+    {
+        "question": "Virtual Interprofessional Learning.\nInterprofessio",
+        "chosen": "ioanl Education.\nInterprofessional Education.\nInterprofessional Education.\nInterprofessional Education",
+        "reject": "nal education is a challenge given the current constraints of clinical education, which is bound by sp"
+    },
+    {
+        "question": "Q:\n\nWhat's the most efficient way to determine whe",
+        "chosen": " wheter a patient is a candidate for a particular treatment?\n\nA:\n\n- A thorough history and physical examination\n\n- A thorough history and physical examination\n\n- A thorough history and physical examination",
+        "reject": "ther a new observation is unique or the repeat of a previous one?\n\nI'm building a knowledgebase site and for each page in the knowledgebase I'd like to be able to show the following statistic: Viewed X tim"
+    },
+    {
+        "question": "A bathroom with a sink and a mirror\nA kitchen with",
+        "chosen": " with a sink and a sink\nA kitchen with a sink and a sink\nA kitchen with a sink and a sink\nA kitchen",
+        "reject": " a refrigerator, stove, and sink.\nA view of a living room from a window.\nA kitchen with a table and"
+    },
+    {
+        "question": "NWT Northface Tri-Climate Sansa Jacket\n\n• Size wom",
+        "chosen": " womans medium\n• Color: black\n• 100% polyester\n• 100% nylon lining\n• 100% polyester fill\n• 100% polyester fleece\n• 100% polyester mesh\n• 100% polyester taffeta\n• 100% polyester taffeta lining\n• 100% polyester taffeta lining\n• 100% polyester taffeta lining",
+        "reject": "en's small\n• Layered jacket so you can unzip the interior layer and wear it as a complete different jacket if desired.\n• Waterproof, wind resistant, perfect for weather of just about any kind.\n• Originally $210.00\n• New WITH tags, comes in original North "
+    },
+    {
+        "question": "Guests 1+ Guests 2+ Guests 3+ Guests 4+ Guests 5+ ",
+        "chosen": " 1+ Guests 2+ Guests 3+ Guests 4+ Guests 5+ 1+ Guests 2+ Guests 3+ Guests 4+ Guests 5+ 1+ Guests 2+ Guests 3+ Guests 4+ Guests 5+",
+        "reject": "Guests 6+ Guests 7+ Guests 8+ Guests 9+ Guests 10+ Guests 11+ Guests 12+ Guests 13+ Guests 14+ Guests 15+ Guests 16+ Guests 17+ G"
+    },
+    {
+        "question": "Transmission of information by light over optical ",
+        "chosen": " <strong>fibers</strong> is a technology that has been around for a long time. It is a technology that has been around for a long time. It is a technology that has been around for a long time. It",
+        "reject": "fibers is widely used in long-haul telecommunication systems. Optical signals are generated, transported along optical fibers and detected to regenerate the original electronic signal with as lit"
+    },
+    {
+        "question": "Detection of signals in modulated and unmodulated ",
+        "chosen": " 100-MHz-bandwidth signals is a challenging task for the receiver. The receiver must be able to detect the signal in the presence of noise and interference. The receiver must also be able to detect the signal in the presence of other signals. The receiver must be able to detect the signal in the presence of other signals. The receiver must be able to detect the signal in the presence of other signals. The receiver must",
+        "reject": "noise observed using auditory evoked potentials.\nTo investigate a neurophysiological correlate of the perceptual enhancement of noise-masked sounds when the masking frequencies have a wide spectral bandwidth and are coherently amplitude-modulated. Auditory evoked potentials were recorded to 1 kHz tones (200 ms, 61 dBSPL, SOA 3s) occurring in silence or with 80 dB masking noise, which was either wide-band or narrow-band"
+    },
+    {
+        "question": "Colorful Lands entices tourists with tourism festi",
+        "chosen": " festivity\n\nThe Colorful Lands of the Philippines is a tourism festivity that aims to promote the country’s tourism industry.\n\nThe event is a collaboration between the Department of Tourism (DOT) and the Department of Trade and Industry (DTI).\n\nThe event is a collaboration between the Department of Tourism (DOT) and the Department of Trade and Industry (DTI).\n\nThe event is a collaboration between the Department of Tourism (DOT) and the Department of Trade and Industry (DTI).",
+        "reject": "val\n\n2019-05-06 15:43:56\n\nDescription：Waves of flowers formed a stunning tapestry of colors at Qi Cai Da Di (Colorful Lands), a scenic spot in Tumd Right Banner, Baotou.\n\nWaves of flowers form a stunning tapestry of colors at Qi Cai Da Di (Colorful Lands), a scenic spot in Tumd Right Banner, Baotou. The spot covers an area of 80 hectares and is home to a multitude of flowers. A three-day tourism festival began at the scenic spot on April 29. It will consist of sightseeing ac"
+    },
+    {
+        "question": "Q:\n\nSpring fo Android : request authorization head",
+        "chosen": " head\n\nA:\n\n1. request permission\n\n2. request authorization\n\n3. request authorization head\n\nQ:\n\nSpring fo Android : request authorization head\n\nA:\n\n1. request permission\n\n2. request authorization\n\n3. request authorization head\n\nQ:\n\nSpring fo Android : request authorization head\n\nA:\n\n1. request permission\n\n2. request authorization\n\n3. request authorization head\n\nQ:\n\nSpring fo Android : request authorization",
+        "reject": "ers (not basic)\n\nI have an app that uses Spring for Android on the Client side and Spring Boot on the Server side. We would like to add client authorization to some requests. We already use Firebase and OAuth2 and after reading on the subject, I feel like the best way to go would be to use the Authentification header to send the JWT to our server, with the bearer method for the authorization :\nAuthorizati"
+    },
+    {
+        "question": "Hazards of antihistamine dependence in psychiatric",
+        "chosen": " psychiatric patients\n\nA. S. S. S. S. S. S",
+        "reject": " patients: a case report.\nExcessive use of"
+    },
+    {
+        "question": "Invasion of Sargassum muticum in intertidal rockpo",
+        "chosen": "pockets in the Bay of Fundy, Canada\n2011\nMcIntyre, A.\nMcIntyre, A.\nMcIntyre, A.\nMc",
+        "reject": "ols: patterns along the Atlantic Iberian Peninsula.\nSpatial patterns of non-indige"
+    },
+    {
+        "question": "Analysis of hepatic metabolism affecting pharmacok",
+        "chosen": "cokineti cs of drugs and xenobiotics\n\n\\section{Introduction}\nThe liver is the major site of drug metabolism in the body. The liver is the major site of drug metabolism in the body. The liver is the major site of drug metabolism in the body. The",
+        "reject": "inetics of propranolol in humans.\nWe examined the metabolic kinetics of propranolol, constructed from saturable and non-saturable components, using liver microsomes. The metabolic activity in rat microsomes was much higher than that in human mi"
+    },
+    {
+        "question": "American Horror Story: Hotel episode 3 Mommy previ",
+        "chosen": "viw\n\n[User 0001]\n\n<blockquote>I'm not sure if I'm the only one who thinks this, but I think the Countess is a vampire. I think she's the one who killed the little girl in the beginning of the episode. I think she's the one who killed the little girl in the beginning of the episode. I think she's the one who killed the little girl in the beginning of the episode",
+        "reject": "ew\n\nAmerican Horror Story: Hotel continued to bend our minds tonight during the second episode of the season.\n\nDonovan (Matt Bomer) found himself ousted by the Countess after she set her sights on drug addict star Tristan (Finn Wittrock) after he appeared in a fashion show at the Hotel Cortez arranged by Will Drake (Cheyenne Jackson) and Vogue Editor Claudia (N"
+    },
+    {
+        "question": "Q:\n\nTinyMCE Package\n\nI am developing an article ma",
+        "chosen": " maanger for my website. I am using TinyMCE for the WYSIWYG editor. I have a problem with the TinyMCE package. I have a problem with the TinyMCE package. I have a problem with the TinyMCE package",
+        "reject": "nagement system using asp.net 3.5 and c#.\nI want to use the TinyMCE editor and want to write a plugin for choosing photos from a folder on the server.\nWhich Package/s do I need to download ?\n\"Mai"
+    },
+    {
+        "question": "RNA-mediated therapies in myotonic dystrophy.\nMyot",
+        "chosen": "otonia congenita: a review of the clinical and genetic aspects.\nMyotonic dystrophy type 1: a review of the clinical and genetic aspects.\nMyotonic dystrophy type 2: a review of the clinical and genetic aspects.\nMyotonic dystrophy type 2: a review of the clinical and genetic aspects.\nMyotonic dystrophy type 2",
+        "reject": "onic dystrophy 1 (DM1) is a multisystemic neuromuscular disease caused by a dominantly inherited 'CTG' repeat expansion in the gene encoding DM Protein Kinase (DMPK). The repeats are transcribed into mRNA, which forms hairpins and binds with high affinity to the Muscleblind-like (MBNL) family of proteins, s"
+    },
+    {
+        "question": "Save your $40 and a whopping 38MB (requires old .N",
+        "chosen": "NFO files) and just use the freeware version of the program.\n\nI've been using it for years and it's great.\n\nhttp://www.nfoedit.com/\n\nI've been using it for years and it's great.\n\nhttp://www.nfoedit.com/\n\nI've been using it for years and it's great.\n\nhttp://www.nfoedit.com/",
+        "reject": "ET even on Windows Vista) download for this rip-off. There are dozens of freeware alternatives which outperform this.\nPrice: Free Trial ($49.95) review details"
+    },
+    {
+        "question": "Crawford Plains, Edmonton\n\nCrawford Plains is a re",
+        "chosen": " re-development of the former Crawford Plains Golf Course. The project is located in the northwest quadrant of Edmonton, Alberta, Canada. The project is a joint venture between the City of Edmonton and the Edmonton Housing Authority. The project is a 1000-unit mixed-income housing development. The project is a 1000-unit mixed-income housing development. The project is a 1000-unit mixed-income housing development",
+        "reject": "sidential neighbourhood located in the Mill Woods area of south Edmonton, Alberta, Canada.  It is a part of the Mill Woods community of Southwood. It was named in 1976 to honour Neil Stanley Crawford, a provincial cabinet minister and former Edmonton alderman, \"in recognition of his public service as a member of the Edmonton Historical Board, Local Board of Health and city council.\"\n\nAccording to the 2001 federa"
+    },
+    {
+        "question": "What Happens Is You Can Get A Cash Advance On Your",
+        "chosen": " Your Credit Card\n\n<h2>What Happens Is You Can Get A Cash Advance On Your Credit Card</h2>\n\nWhat Happens Is You Can Get A Cash Advance On Your Credit Card\n\n<h2>What Happens Is You Can Get A Cash Advance On Your Credit Card</h2>\n\nWhat Happens Is You Can Get A Cash Advance On Your Credit Card\n\n<h2>What Happens Is You Can Get A Cash Advance On Your Credit Card</h2>\n\nWhat Happens Is You Can Get A Cash Advance On",
+        "reject": " Future Sales That Allows You To Acquire New Equipment To Make More Sales.\n\nMay 07, 2018\n\nAmong them are perfume, makeup, small mirrors, gadgets, classes, in order to don full, fancy wigs atop their heads for special occasions, public outings, and ceremonies. In these days when medical professions are in-demand, it all skin conditions for both men and women, often with instant success. Thus we have a very br"
+    },
+    {
+        "question": "Support Staff\n\nChristel\n\nVeterinary Assistant\n\nChr",
+        "chosen": "Chrisstel is a native of the Philippines. She has been working in the veterinary field for 10 years. She has a passion for animals and loves to help them. She has a dog named Bella and a cat named Coco. She enjoys spending time with her family and friends.\n\n​\n\n​\n\n​\n\n​\n\n​\n\n​\n\n​\n\n​\n\n​",
+        "reject": "istel completed the Animal Care Aide program at Vancouver Island University in 2016 and, after joining us for her practicum, she was offered a position at Benson View.\nChristel has been an animal lover for as long as she can remember and shares her life with 3 cats; a Ragdoll named "
+    },
+    {
+        "question": "The core of Sri Nisargadatta Maharaj's teaching is",
+        "chosen": " is that the Self is the only reality. The Self is the only reality. The Self is the only reality. The",
+        "reject": " the knowledge of one's own identity. This knowledge is indeed the pivotal point around which moves ev"
+    },
+    {
+        "question": "CSR Video - Business Benefits of Corporate Social ",
+        "chosen": " \n\nResponsibility\n\nCSR Video - Business Benefits of Corporate Social Responsibility\n\nCSR Video - Business Benefits of Corporate Social Responsibility\n\nCSR Video - Business Benefits of Corporate Social Responsibility",
+        "reject": "Responsibility\n\nHere is a terrific UK-focused video that considers the business benefits of having a CSR programme. It features an architectural practice which has won awards for employee engagement in CSR. This vid"
+    },
+    {
+        "question": "Letra Heads Hammock\n\nI move slowly through the ear",
+        "chosen": " ear of the day\nI'm a little bit late\nI'm a little bit late\nI'm a little bit late",
+        "reject": "th and I'm breaking off (slide by slide)??? bouncing off of the bloody shore sink"
+    },
+    {
+        "question": "132 F.3d 1147\nArthur Ray BOWLING, et al., Plaintif",
+        "chosen": "tif s-Appellants,\nv.\nUNITED STATES of America, Defendant-Appellee\n\nNo. 96-1111.\n\nUnited States Court of Appeals,\nFifth Circuit.\n\nMarch 12, 1997.\n\n\nCOPYRIGHT MATERIAL OMITTED COPYRIGHT MATERIAL OMITTED COPYRIGHT MATERIAL OMITTED COPYRIGHT",
+        "reject": "fs,Jeffrey A. Crane;  Gene Randall;  Gerard Benedik,Intervenors-Appellants,Waite, Schneider, Bayless & Chesley Company, L.P.A.;  JohnT. Johnson;  James T. Capretz, Appellees,v.PFIZER, INC.;  Shiley, Inc., Defendants.\nNo. 97-3369.\nUnited "
+    },
+    {
+        "question": "Spread This:\n\nRelated\n\nComments\n\nWonderful episode",
+        "chosen": " episode. I love the way the show is going. I love the way the show is going. I love the way the show is going",
+        "reject": "! I’ve been wondering, were the cortexi-kids created to battle the alt-verse, the observers, or help Bell crea"
+    },
+    {
+        "question": "Bronchopulmonary foregut malformation in 3 infants",
+        "chosen": " infants with congenital diaphragmatic hernia\n\nA. A. Al-Haddad, M. A. Al-Haddad, A. A. Al-Haddad, A. A. Al-Haddad, A",
+        "reject": "--with special references to cases in childhood.\nWe encountered three infant patients with bronchopulmonary foregut "
+    },
+    {
+        "question": "Down into the wilderness I’ll go\n\nin hopes of find",
+        "chosen": " findin’ a place to grow\n\nI’ll find a place to call my own\n\nand I’ll be free to roam\n\nI’ll be free to roam\n\nI’ll be free to roam\n\nI",
+        "reject": "ing my soul\n\nfor it is lost\n\nand I am cold\n\nas if a part of me’s been sold.\n\nThere is life all around,\n\nyet joy is not found.\n\nThro"
+    },
+    {
+        "question": "A number of attempts have been made recently to de",
+        "chosen": " de-mystify the process of writing a book.\n\nI’ve been asked to write a book, and I’ve been asked to write a book about writing a book.\n\nI’ve been asked to write a book about writing a book about writing a book.\n\nI’ve been asked to write a book about writing a book about writing a book about writing",
+        "reject": "fine open source models -- even new licenses -- that limit the freedom of anyone but the project instigator to benefit from the full range of rights to the software. Proponents believe they can generate a \"network effect\" of adoption and contribution without providing the same software freedoms to "
+    },
+    {
+        "question": "Talks - Human Conduct Within the Home\n\nHuman Condu",
+        "chosen": " Conducts Within the Home\n\nThe home is the first school of life. It is the place where the child learns the first lessons of life. The home is the place where the child learns the first lessons of life. The home is the place where the child learns the first lessons of life. The home",
+        "reject": "ct Within the Home\n\nHuman Conduct Within the Home\n\nSatguru Sivaya Subramuniyaswami\n, 1998-12-08\n\nHuman conduct within the home, the extended family is today's topic. How do we work out our karma and work out our faults? Gurudeva says it is through relating with others. Running away "
+    },
+    {
+        "question": "Q:\n\nParse Facebook cover picture JSON file\n\nI am u",
+        "chosen": " usign the following code to parse the JSON file.\n\n<code>import json\nimport requests\nimport urllib.request\nimport urllib.parse\nimport urllib.error\nimport urllib.request\nimport urllib.error\nimport urllib.parse\nimport urllib.request\nimport urllib.error\nimport urllib.parse\nimport urllib.request\nimport urllib.error\nimport urllib.parse",
+        "reject": "sing Facebook Graph API to get the user's cover picture. The information you get with the link https://graph.facebook.com/facebookuserid?fields=cover is a JSON object, where the link to the picture is included. How do I obtain that link with JQuery or JavaScript?\nThis is what I've tried:\nHTML:\n<div id=\"cover\"></div>\n\nJQuery:\n$(doc"
+    },
+    {
+        "question": "Description\n\nSANGEAN DAB+BOXY Radio.\n\nThe SANGEAN ",
+        "chosen": " 1000 DAB+ is a compact, portable DAB+ radio with a built-in rechargeable battery.\n\nThe SANGEAN 1000 DAB+ is a compact, portable DAB+ radio with a built-in rechargeable battery.\n\nThe SANGEAN 1000 DAB+ is a compact, portable DAB+ radio with a built-in rechargeable battery.\n\nThe SANGEAN",
+        "reject": "DAB+BOXY Radio can endure four seasons in a day – the radio is rain resistant (to JIS4), dust resistant and shock resistant. The 5” speaker is water resistant and protected by a metal grill.\n\nThe DAB+BOXY radio is encased in an Tough ABS plastic body, making the radio lightweight whil"
+    },
+    {
+        "question": "                                                  ",
+        "chosen": "                   <strong>  </strong><strong>  </strong><strong>  </strong>",
+        "reject": "        [DO NOT PUBLISH]\n\n\n             IN THE UNITED STATES COURT OF APPEAL"
+    },
+    {
+        "question": "#include <stdio.h>\n#include <stdlib.h>\n#include <n",
+        "chosen": "ntifs.h>\n#include <ntddk.h>\n#include <ntstrsafe.h>\n#include <ntdddisk.h>\n#include <ntddscsi.h>\n#include <ntddscsi.h>\n#include <ntddscsi",
+        "reject": "carg/ncargC.h>\n#include <ncarg/gks.h>\n#include <ncarg/ngmath.h>\n\nvoid drwsrfc (int, int, float *, float *, float *, float, float, float"
+    },
+    {
+        "question": "Day 5’s come to an end and so has the first week o",
+        "chosen": " o the 2019 World Cup.\n\nThe first week of the World Cup has been a roller coaster ride for the fans. The first week has seen some of the most exciting matches of the tournament.\n\nThe first week of the World Cup has seen some of the most exciting matches of the tournament.\n\nThe first week of the World Cup has seen some of the most exciting matches of the tournament.\n\nThe first week of the World Cup",
+        "reject": "f Production! Not gonna lie, we started missing the studio even before we left for home. ಠ_ರೃ Time flies too quickly.\n\nMillennium Dragons gave us Kit Kat! So here’s a picture of it along with the Kit Kat from Acrylics and the message from JJKN59 on Thursday.\n\nWe brought a marble cake to share with the other teams on Friday, and in order to ensure we did not cut too many slices and make each slice "
+    },
+    {
+        "question": "Q:\n\nhow to include jquery from node_modules in ang",
+        "chosen": " angualr 10\n\nA:\n\nimport * as $ from 'jquery';\n\nimport 'jquery-ui/ui/widgets/datepicker';\n\nimport 'jquery-ui/ui/widgets/autocomplete';\n\nimport 'jquery-ui/ui/widgets/menu';\n\nimport 'jquery-ui/ui/widgets/menu';\n\nimport 'jquery-ui/ui/widgets/menu",
+        "reject": "ular1\n\nHere this is my HTML:\n<!DOCTYPE html>\n<html>\n<head><% include ./header %>\n<link type=\"text/javascript\" src=\"loginScript\" ></head>\n<body class='home-page' ng-app=\"loginApp\" ng-controller=\"LoginCtrl\"> </body></html>\n\nheader.ejs\n     My a"
+    },
+    {
+        "question": "Suicide following parasuicide in Singapore.\nSuicid",
+        "chosen": "idality in the elderly: a review of the literature.\nSuicide in the elderly: a review of the literature.\nSuicide in the elderly: a review of the literature.\nSuicide",
+        "reject": "e was attempted by 1641 people (502 males and 1139 females) in Singapore during 1980. Eleven of these committed suicide during the following three years, giving a "
+    },
+    {
+        "question": "[Detection of malnutrition on admission to hospita",
+        "chosen": "ita]\n\n[User 0001]\n\n<b>[Detection of malnutrition on admission to hospita]</b>\n\n<b>Source:</b> <i>Rev Med Chil</i> 2002;130(11):1311-1316\n\n<b>Authors:</b> <i>M.A. Orellana, M.A. Orellana, M.A. Orellana, M",
+        "reject": "l].\nIn view of the high prevalence of malnutrition in hospitals as shown by some studies and in the light of its direct impact on the increase in morbidity and mortality among hospitalized patients, it i"
+    },
+    {
+        "question": "[Triterpenoid constituents in fruits of Psidum gua",
+        "chosen": " guaicava L.]\n1995\nM.A.M. de Oliveira; M.A.C. de Oliveira; M.A.C. de Oliveira; M.A.C",
+        "reject": "java].\nThe chemical constituents from the fruit of Psidium guajava were investigated"
+    },
+    {
+        "question": "Contentions\n\nAs if yesterday’s “controversy” about",
+        "chosen": " about the “controversial” “controversy” about the “controversial” “controversy” about the “controversial” “controversy”",
+        "reject": " Mitt Romney supposedly marveling over WaWa sandwich technology wasn’t dumb enough, it turns out that it wasn’t even acc"
+    },
+    {
+        "question": "There is no access to the web interface of the rou",
+        "chosen": " routher.\n\nI have tried to reset the router to factory settings, but it does not work.\n\nI have tried to connect to the router via the web interface, but it does not work.\n\nI have tried to connect to the router via the web interface, but it does not work.\n\nI have tried to connect to the router via the web interface",
+        "reject": "ter through 192.168.1.1 or 192.168.0.1. Please help.\n\nThis can happen if the network settings are incorrect or if the device is malfunctioning. In both cases, you will receive a message “Page not found”. First, check if the computer gets an IP address and which one.\n\nUnfortunately, the lack of access to the admin "
+    },
+    {
+        "question": "Detection of airborne allergen (Ole e 1) in relati",
+        "chosen": " relativelysmall volumes of air using a novel immunoassay\n\nA.M.J. van der Veen, J.A.M. van der Meer, J.A.M. van der Meer, J.A.M. van der Meer",
+        "reject": "on to Olea europaea pollen in S Spain.\nIn recent years, it has been demonstrated that the air carries not only airborne pollen but also plant"
+    },
+    {
+        "question": "In recognition of Throwback Thursday, the followin",
+        "chosen": "in is a post from the archives.\n\nThe following is a post from the archives.\n\nThe following is a post from the archives.\n\nThe following",
+        "reject": "g is a reprint of a previously published post. Enjoy!\n\nOnce upon a time there was a lovely princess. (For the sake of the story, we’re"
+    },
+    {
+        "question": "Q:\n\nSmartfoxserver 2X linux 64 running on EC2 via ",
+        "chosen": " 2019-09-12-1.0.0-linux-x64.tar.gz\n\nI have a problem with the server.\n\nI have a problem with the server.\n\nI have a problem with the server.",
+        "reject": "dotcloud - how to install?\n\nI am currently trying to deploy smartfoxserver 2X on EC2 using dotcloud.  I have been able to detect the privat"
+    },
+    {
+        "question": "Gas ranges for home and commercial applications ty",
+        "chosen": " typecast the gas range as a kitchen appliance. But the gas range is also a versatile tool for the outdoors.\n\nThe gas range is a versatile tool for the outdoors.\n\nThe gas range is a versatile tool for the outdoors.\n\nThe gas range is",
+        "reject": "pically include gas burners 10 (see FIG. 1) located on the top cooking surface of the range. Gas is delivered to these top burners 10 as indicated by gas flow arrow 22 through the burner base 12 from a distribution manifold (not sho"
+    },
+    {
+        "question": "Q:\n\nDownloading image from server issue with url w",
+        "chosen": " w/o http\n\nA:\n\n- The URL is not a valid URL.\n\n- The URL is not a valid URL.\n\n- The URL is not a valid URL.",
+        "reject": "hich contains some other language character in android?\n\nI am downloading image from server and store in s"
+    },
+    {
+        "question": "Drudge linked to this picture:\n\nIf you experiment ",
+        "chosen": " <em>at all</em> with the image, you can see that the picture is a composite.\n\nThe original picture is this:\n\nThe original picture is a composite of two pictures. The original picture is this:\n\nThe original picture is a composite of two pictures. The original picture is this:\n\nThe original picture is a composite of two pictures. The",
+        "reject": "with facial disguise kits, the prosthetic features, such as altered noses and chins, have at their edges a thin layer of skin-like latex that feathers to almost tissue paper thickness.\n\nWhat you do is apply a gum-glue to your skin around where the prosthetic will be placed. It is very thin and very sticky, and then the prosthetic is"
+    },
+    {
+        "question": "Size of anal squamous cell carcinomas at diagnosis",
+        "chosen": " diagnosis and their relationship to survival in a population-based study\n\nA. M. M. van der Heijden, M. J. M. van der Heijden, J. A. M. van der Heijden, J. A. M. van der Heijden, J. A",
+        "reject": ": a retrospective case series.\nAnal squamous cell carcinoma is more common in HIV-positive homosexual men than in the general population and prognosis worsens with increasing tumour s"
+    },
+    {
+        "question": "\n104 B.R. 435 (1989)\nIn re LORRAINE GUARDIAN, LTD.",
+        "chosen": ".\n104 B.R. 435 (1989)\nIn re LORRAINE GUARDIAN, LTD.\n104 B.R. 435 (1989)\nIn re LORRAINE GUARDIAN, LTD.\n104 B.R. 435 (1989)\nIn re LORRAINE GUARDIAN, LTD",
+        "reject": ", Debtor.\nBankruptcy No. 89-04214.\nUnited States Bankruptcy Court, N.D. Florida, Pensacola Division.\nSeptember 1, 1989.\n*436 Jeffrey C. Bassett, Panam"
+    },
+    {
+        "question": "Jubler 3.4.1\n\nJubler is a tool for editing text-ba",
+        "chosen": "baed subtitles. It is a free and open source software.\n\nJubler is a tool for editing text-baed subtitles. It is a free and open source software.\n\nJubler is a tool for editing text-baed subtitles. It is a free and open source software.\n\nJubler is a tool for editing text-",
+        "reject": "sed subtitles. It can be used an an authoring software for new subtitles or as a tool to convert, transform, correct, and refine existing subtitles. Some of its key features are subtitle preview, smooth cooperation with MPlayer, full subtitle editing, and ASpell support"
+    },
+    {
+        "question": "324 F.3d 889\nUNITED STATES of America, Plaintiff-A",
+        "chosen": "A ppellee,\nv.\nMichael J. KOVAL, Defendant-Appellant\n\nNo. 02-1111.\n\nUnited States Court of Appeals,\nSeventh Circuit.\n\nArgued March 11, 2003.\nDecided June 10, 2003.\n\n\nCOPYRIGHT MATERIAL OMITTED COPYRIGHT MATERIAL OMITTED COPYRIGHT MATERIAL OMITTED COPYRIGHT",
+        "reject": "ppellee,v.Delbert L. CHATMON, Defendant-Appellant.\nNo. 02-1520.\nUnited States Court of Appeals, Seventh Circuit.\nArgued February 14, 2003.\nDecided April 4, 2003.\n\nStephen B. Clark (argued), Office of the United States Atty., Crim. Div., Fairview Heights, "
+    },
+    {
+        "question": "[Simple febrile seizure, complex seizure, generali",
+        "chosen": " generali- zation, and status epilepticus]\n[Simple febrile seizure, complex seizure, generali- zation, and status epilepticus]\n[Simple febrile seizure, complex seizure, generali- zation, and status epilepticus]\n[Simple febrile seizure, complex seizure,",
+        "reject": "zed epilepsy with febrile seizure plus, FIRES and new syndromes].\nFebrile seizures are the most common seizures in childhood. They have been observed in 2-5% of children before the age of 5, but in some populations this figure may increase to 15%. It i"
+    },
+    {
+        "question": "Nurse or surgeon follow-up after rectal cancer: a ",
+        "chosen": " 10-year experience\n\nA.M. van der Heijden, M.J. van der Heijden, J.A. van der Heijden, J.A. van der Heijden, J.A",
+        "reject": "randomized trial.\nFollow-up programmes consume a large amount of resources with less time for the surgeon to tak"
+    },
+    {
+        "question": "Q:\n\nDirecttostage error when playing published app",
+        "chosen": " app\n\nA:\n\n-Check the app is published to the correct stage\n\n-Check the app is published to the correct stage\n\n-Check the app is published to the correct stage",
+        "reject": "lication in another computer\n\nI have a Director application that has several modules, but one in particular decided to not work. That is the Video section of "
+    },
+    {
+        "question": ";login:\n\n;login: is a long-running technical journ",
+        "chosen": "nalling project that began in 2003. It is a collection of essays, interviews, and other writings about the history of computing, the Internet, and the people who have shaped them.\n\n;login: is a non-profit project. It is funded by donations from readers and supporters.\n\n;login: is a project of the Internet Archive.\n\n;login: is a project of the Internet Archive.\n\n;login: is a project of the Internet Archive",
+        "reject": "al published by the USENIX Association, focusing on the UNIX operating system and system administration in general. It was founded by Mel Ferentz in 1975 as UNIX News, changing its name to ;login: in 1977. Currently, issues from 1997 through the present are available online directly from USENIX, whereas issues between 1983 and 2000 have been archived in the Internet Archive since 2018.\n\nThe leading semico"
+    },
+    {
+        "question": "Always Faithful, Always Forward\n\n(2014)The Forging",
+        "chosen": "ging of a Nation\n\n(2014)The Forging of a Nation\n\n(2014)The Forging of a Nation\n\n(2014)The For",
+        "reject": " of a Special Operations MarineA non fiction book by Dick Couch\n\nEstablished in 1986, the U.S"
+    }
+]
