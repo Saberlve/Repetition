@@ -42,7 +42,6 @@ def run_unlearn(cfg):
 
     max_length = cfg.max_length
 
-    ga_ratio = cfg.ga_ratio
 
     config = AutoConfig.from_pretrained(model_path)
     model = AutoModelForCausalLM.from_pretrained(model_path, config=config, torch_dtype=torch.float16, trust_remote_code = True)
@@ -234,8 +233,6 @@ class BaseDataset(Dataset):
         self.input_ids = []
         self.attention_masks = []
         self.labels = []
-        self.text_column = "input"
-        self.label_column = "output"
 
     def _pad_or_trim(self, input_sequence: torch.Tensor):
         return pad_or_trim_tensor(
@@ -265,56 +262,7 @@ class BaseDataset(Dataset):
 
         return collate_fn
 
-class QADataset(BaseDataset):
-    def __init__(self, file_path: str, tokenizer: AutoTokenizer, max_len: int = 4096):
-        super().__init__(tokenizer, max_len)
 
-        self.text_column = "input"
-        self.label_column = "output"
-        with open(file_path, 'r') as f:
-            examples = json.load(f)
-
-        batch_size = len(examples["id"])
-        max_q_len = int(max_len * 0.8)
-        inputs = [x for id, x in examples[self.text_column].items()]
-        targets = [x for id, x in examples[self.label_column].items()]
-        model_inputs = tokenizer(inputs)
-        labels = tokenizer(targets, add_special_tokens=False)
-        for i in range(batch_size):
-            model_inputs["input_ids"][i] = model_inputs["input_ids"][i][-max_q_len:]
-            sample_input_ids = model_inputs["input_ids"][i]
-            label_input_ids = labels["input_ids"][i] + [tokenizer.eos_token_id]
-            model_inputs["input_ids"][i] = sample_input_ids + label_input_ids
-            labels["input_ids"][i] = [-100] * len(sample_input_ids) + label_input_ids
-            model_inputs["attention_mask"][i] = [1] * len(model_inputs["input_ids"][i])
-        for i in range(batch_size):
-            # pad 
-            sample_input_ids = model_inputs["input_ids"][i]
-            label_input_ids = labels["input_ids"][i]
-            model_inputs["input_ids"][i] = [tokenizer.pad_token_id] * (
-                max_len - len(sample_input_ids)
-            ) + sample_input_ids
-            model_inputs["attention_mask"][i] = [0] * (max_len - len(sample_input_ids)) + model_inputs[
-                "attention_mask"
-            ][i]
-            labels["input_ids"][i] = [-100] * (max_len - len(sample_input_ids)) + label_input_ids
-            
-            # trim
-            model_inputs["input_ids"][i] = torch.tensor(model_inputs["input_ids"][i][:max_len])
-            model_inputs["attention_mask"][i] = torch.tensor(model_inputs["attention_mask"][i][:max_len])
-            labels["input_ids"][i] = torch.tensor(labels["input_ids"][i][:max_len])
-            self.input_ids.append(model_inputs["input_ids"][i])
-            self.attention_masks.append(model_inputs["attention_mask"][i])
-            self.labels.append(labels["input_ids"][i])
-        model_inputs["labels"] = labels["input_ids"]
-        return
-
-    def __getitem__(self, index):
-        return {
-            "input_ids": self.input_ids[index],
-            "attention_mask": self.attention_masks[index],
-            "labels": self.labels[index]
-        }
 
 class ForgetRetainDataset(Dataset):
     def __init__(self, forget_dataset: BaseDataset, retain_dataset: BaseDataset | None = None):
