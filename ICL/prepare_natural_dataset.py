@@ -224,21 +224,23 @@ class TextProcessor:
                 })
         return results
 
-def main(file_path, tokenizer_path):
+def main(file_path, tokenizer_path ,output_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
     processor = TextProcessor(tokenizer_path)
     results = processor.process_data(data)
 
-    natural_prompts_path = '../dataset/natural_prompts.json'
-    with open(natural_prompts_path, 'w', encoding='utf-8') as f:
+
+    with open(output_path, 'w', encoding='utf-8') as f:
         f.write(json.dumps(results, indent=4, ensure_ascii=False))
+    print('total len is {}'.format(len(results)))
     print('finished')
         
 if __name__ == '__main__':
     parser = ArgumentParser()
     parser.add_argument("--file_path", help='path of the greedy generation file', default='/disk/disk_20T/wsx/Repetition/prompt/minipile_train_greedy_generate.json')
     parser.add_argument("--tokenizer_path", default='/disk/disk_20T/wsx/Qwen2-0.5B')
+    parser.add_argument("--output_path")
     
     args = parser.parse_args()
-    main(args.file_path, args.tokenizer_path)
+    main(args.file_path, args.tokenizer_path,args.output_path)

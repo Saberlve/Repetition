@@ -1,6 +1,7 @@
 **/*data/** 
 .history
 .vscode/
-logs/**
+**/logs
+**/wandb
 raw_dataset/
 **/__pycache__/

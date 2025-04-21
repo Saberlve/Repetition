@@ -14,7 +14,7 @@ def greedy_gen(model, tokenizer, data):
             outputs = model.generate(
                 input_ids,
                 do_sample=False,
-                max_new_tokens=100,
+                max_new_tokens=200,
                 pad_token_id=tokenizer.pad_token_id,
                 eos_token_id=tokenizer.eos_token_id
             )
@@ -40,25 +40,24 @@ def prepare_dataset(dataset_path):
     return data
 
 
-def main(model_name_or_path, data_path, device, torch_dtype):
-    data = prepare_dataset(data_path)
+def main(model_name_or_path, input_data_path, output_data_path, device, torch_dtype):
+    data = prepare_dataset(input_data_path)
     model, tokenizer = prepare_model(model_name_or_path, device, torch_dtype)
     generated_texts = greedy_gen(model, tokenizer, data)
     
     # 将生成的文本保存到文件
-    data_name = data_path.split('/')[-1].split('.')[0]
-    output_path = f'../prompt/{data_name}_greedy_generate.json'
-    with open(output_path, 'w', encoding='utf-8') as f:
+    with open(output_data_path, 'w', encoding='utf-8') as f:
         json.dump(generated_texts, f, indent=4, ensure_ascii=False)
 
 
 if __name__ == '__main__':
     parser = ArgumentParser()
     parser.add_argument('--model_name_or_path', default='../../Qwen2-0.5B')
-    parser.add_argument('--data_path', default='../prompt/minipile_train.json')
+    parser.add_argument('--input_data_path', default='../prompt/minipile_train.json')
+    parser.add_argument('--output_data_path')
     parser.add_argument('--device',default='cuda' )
     parser.add_argument('--torch_dtype', default='bfloat16')
 
     args = parser.parse_args()
     
-    main(args.model_name_or_path, args.data_path, args.device, args.torch_dtype)
+    main(args.model_name_or_path, args.input_data_path, args.output_data_path, args.device, args.torch_dtype)
